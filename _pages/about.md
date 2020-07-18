@@ -10,13 +10,13 @@ redirect_from:
 
 
 I'm an Economist and statistician at Kohelet Economic Forum. 
-My primary research interests are labor economics, data analysis, economics of conflict, economics of Israel and economic history.
+My primary research interests are Labor Economics, Data Analysis, Economics of Conflict, Economics of Israel and Economic History.
 
 I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/). 
 
 Check out the blog my wife and I write together: [The Artist & the Merchant](https://www.artistandmerchant.com/), where we discuss economics, statistics and other aspects of social sciences with illustrations. (Hebrew)
 
-Check out the podcast my friends Itay Cishnevsky, Ori Katz and I host: [Creative Destruction](http://heres.podbean.com/), where we have talks with leading economist and other social scientists in Israel.
+Check out the podcast my friends Itay Cishnevsky, Ori Katz and I host: [Creative Destruction](http://heres.podbean.com/), where we have talks with leading economist and other social scientists in Israel. (Hebrew)
 
 Contact me at: [karlinsky@gmail.com](karlinsky@gmail.com).
 
