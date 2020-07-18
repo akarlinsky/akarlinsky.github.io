@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 
 I'm an Economist and statistician at Kohelet Economic Forum. <br/>
