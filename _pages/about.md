@@ -18,16 +18,15 @@ Check out the blog my wife and I write together: [The Artist & the Merchant](htt
 
 Check out the podcast my friends Itay Cishnevsky, Ori Katz and I host: [Creative Destruction](http://heres.podbean.com/), where we have talks with leading economist and other social scientists in Israel.
 
-Contact me at: karlinsky@gmail.com(karlinsky@gmail.com).
+Contact me at: [karlinsky@gmail.com](karlinsky@gmail.com).
 
 
 
 Peer Reviewed Publications
 ======
-* Ariel Karlinsky & Michael Sarel (2019).  [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). The Economic Quarterly 63 (3/4). (Hebrew) 
+* Ariel Karlinsky & Michael Sarel (2020).  Estimating the Cost of Raising Children in Israel. _Israeli Economic Review_. (Forthcoming) 
 
-* Ariel Karlinsky & Michael Sarel (2020).  Estimating the Cost of Raising Children in Israel. Israeli Economic Review. (Forthcoming) 
-
+* Ariel Karlinsky & Michael Sarel (2019).  [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). _The Economic Quarterly_ 63 (3/4). (Hebrew) 
 
 
 Other Publications
@@ -35,6 +34,7 @@ Other Publications
 * Ariel Karlinsky (2020). [Elderly-Only Quarantine to Cope with the Corona Virus: Implications for the Israeli Economy and the Quality of Life of the Elderly Population](https://kohelet.org.il/wp-content/uploads/2020/04/%D7%A1%D7%92%D7%A8-%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%A4%D7%99.pdf). _Kohelet Policy Paper_. (Hebrew, [English Abstract](https://bit.ly/3aeYGRT))
 
 * Ariel Karlinsky (2020). [The Economic Impact of Shutting Down Schools for Children aged 5 to 9].(https://kohelet.org.il/wp-content/uploads/2020/04/econ.impact.child_.covid_.pdf) _Kohelet Policy Paper_. (Hebrew)
+
 
 Work in Progress
 ======
@@ -58,20 +58,22 @@ Media Publications
 
 Media Apperances
 ======
-* The Economy Podcast (2020): [Elderly Only Quarrantine to Cope with Covid 19](https://www.youtube.com/watch?v=D5AvwLFn6pE)
+* The Economy Podcast (2020): [Elderly Only Quarrantine to Cope with Covid 19](https://www.youtube.com/watch?v=D5AvwLFn6pE). (Hebrew)
 
-* The Economy Podcast (2020): [Defined Benefits Pensions in Israel](https://www.youtube.com/watch?v=qH7MyWhr2lk)
+* The Economy Podcast (2020): [Defined Benefits Pensions in Israel](https://www.youtube.com/watch?v=qH7MyWhr2lk). (Hebrew)
 
-* Galey Israel Radio Station (2019): [Is Higher Education Beneficial to Students and the Israeli Economy?](https://www.youtube.com/watch?v=xhxl-dDgDYI) (Hebrew)
+* Galey Israel Radio Station (2019): [Is Higher Education Beneficial to Students and the Israeli Economy?](https://www.youtube.com/watch?v=xhxl-dDgDYI). (Hebrew)
 
-* Added Value Podcast (2017): [Episode 35: The Industrial Revolution](http://www.added-value.co/35/) (Hebrew)
+* Added Value Podcast (2017): [Episode 35: The Industrial Revolution](http://www.added-value.co/35/). (Hebrew)
 
 
 Misc
 ======
+* Ariel Karlinsky & Gal Kabiri (2020): [Hitler: TIMES magazine Man of the Year 1938 Translation from English to Hebrew](https://dannyorbach.com/2020/05/23/%D7%94%D7%99%D7%98%D7%9C%D7%A8-%D7%90%D7%99%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%A0%D7%91%D7%95%D7%90%D7%94-%D7%A9%D7%94%D7%AA%D7%92%D7%A9%D7%9E%D7%94-%D7%98%D7%95%D7%A8-%D7%90%D7%95%D7%A8%D7%97/). (Hebrew)
 
-* Debate host (2019): [Right or Wrong Economics: A debate between Prof. Joseph Zeira & Prof. Omer Moav](https://www.youtube.com/watch?v=m0dHE_ux-YE) (Hebrew)
+* Debate host (2020): [Governmet Expenditures and the Deficit: A debate between MK Ori Maklev, Prof. Avi Simhon, Prof Leah Ahdut & Dr. Michael Sarel](https://www.youtube.com/watch?v=Ei0BrrVCyHE). (Hebrew)
 
-* Debate host (2020): [Governmet Expenditures and the Deficit: A debate between MK Ori Maklev, Prof. Avi Simhon, Prof Leah Ahdut & Dr. Michael Sarel](https://www.youtube.com/watch?v=Ei0BrrVCyHE) (Hebrew)
+* Debate host (2019): [Right or Wrong Economics: A debate between Prof. Joseph Zeira & Prof. Omer Moav](https://www.youtube.com/watch?v=m0dHE_ux-YE). (Hebrew)
 
-* Ariel Karlinsky & Gal Kabiri (2020): [Hitler: TIMES magazine Man of the Year 1938 Translation from English to Hebrew](https://dannyorbach.com/2020/05/23/%D7%94%D7%99%D7%98%D7%9C%D7%A8-%D7%90%D7%99%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%A0%D7%91%D7%95%D7%90%D7%94-%D7%A9%D7%94%D7%AA%D7%92%D7%A9%D7%9E%D7%94-%D7%98%D7%95%D7%A8-%D7%90%D7%95%D7%A8%D7%97/)
+
+
