@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Ariel Karlinsky"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
