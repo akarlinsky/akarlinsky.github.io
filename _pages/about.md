@@ -10,7 +10,7 @@ redirect_from:
 <br/><br/>
 
 
-I'm an Economist and statistician at Kohelet Economic Forum. <br/>
+I'm an Economist and Statistician at Kohelet Economic Forum. <br/>
 My primary research interests are Labor Economics, Data Analysis, Economics of Conflict, Economics of Israel and Economic History.
 
 I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/). 
@@ -57,7 +57,7 @@ Media Publications
 * Ariel Karlinsky (2019): [Warning: Rent-Seekers in Israel](https://www.themarker.com/news/macro/.premium-1.7644969). _The Marker_ (Hebrew)
 
 
-Media Apperances
+Media Appearances
 ======
 * The Economy Podcast (2020): [Elderly Only Quarrantine to Cope with Covid 19](https://www.youtube.com/watch?v=D5AvwLFn6pE). (Hebrew)
 
@@ -75,6 +75,5 @@ Misc
 * Debate host (2020): [Governmet Expenditures and the Deficit: A debate between MK Ori Maklev, Prof. Avi Simhon, Prof Leah Ahdut & Dr. Michael Sarel](https://www.youtube.com/watch?v=Ei0BrrVCyHE). (Hebrew)
 
 * Debate host (2019): [Right or Wrong Economics: A debate between Prof. Joseph Zeira & Prof. Omer Moav](https://www.youtube.com/watch?v=m0dHE_ux-YE). (Hebrew)
-
 
 
