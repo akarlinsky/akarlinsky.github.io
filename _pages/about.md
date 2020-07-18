@@ -10,7 +10,7 @@ redirect_from:
 <br/><br/><br/><br/><br/><br/>
 
 
-I'm an Economist and statistician at Kohelet Economic Forum. 
+I'm an Economist and statistician at Kohelet Economic Forum. <br/>
 My primary research interests are Labor Economics, Data Analysis, Economics of Conflict, Economics of Israel and Economic History.
 
 I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/). 
