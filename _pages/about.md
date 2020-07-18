@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ariel Karlinsky"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,69 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm an Economist and statistician at Kohelet Economic Forum. 
+My primary research interests are labor economics, data analysis, economics of conflict, economics of Israel and economic history.
 
-A data-driven personal website
+I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/). 
+
+Check out the blog my wife and I write together: [The Artist & the Merchant](https://www.artistandmerchant.com/), where we discuss economics, statistics and other aspects of social sciences with illustrations. (Hebrew)
+
+Check out the podcast my friends Itay Cishnevsky, Ori Katz and I host: [Creative Destruction](http://heres.podbean.com/), where we have talks with leading economist and other social scientists in Israel.
+
+Contact me at: karlinsky@gmail.com(karlinsky@gmail.com).
+
+
+
+Peer Reviewed Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* Ariel Karlinsky & Michael Sarel (2019).  [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). The Economic Quarterly 63 (3/4). (Hebrew) 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* Ariel Karlinsky & Michael Sarel (2020).  Estimating the Cost of Raising Children in Israel. Israeli Economic Review. (Forthcoming) 
 
-Getting started
+
+
+Other Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Ariel Karlinsky (2020). [Elderly-Only Quarantine to Cope with the Corona Virus: Implications for the Israeli Economy and the Quality of Life of the Elderly Population](https://kohelet.org.il/wp-content/uploads/2020/04/%D7%A1%D7%92%D7%A8-%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%A4%D7%99.pdf). _Kohelet Policy Paper_. (Hebrew, [English Abstract](https://bit.ly/3aeYGRT))
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* Ariel Karlinsky (2020). [The Economic Impact of Shutting Down Schools for Children aged 5 to 9].(https://kohelet.org.il/wp-content/uploads/2020/04/econ.impact.child_.covid_.pdf) _Kohelet Policy Paper_. (Hebrew)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Work in Progress
+======
+* Claude Berrebi, Hanan Yonah & Ariel Karlinsky. [Individual and Community Behavioral Responses to Natural Disasters](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630856). _SSRN Working Paper_
 
-**Markdown generator**
+* Ariel Karlinsky, Michael Sarel & Yoav Mazeh. Child Support in Israel: Determination and Allocation between Parents. _Kohelet Working Paper_. (Hebrew)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+* Ariel Karlinsky & Nissan Avraham. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* Ariel Karlinsky. Ultra-Orthodox Men in Israel: Educational and Labor Market Outcomes. _Kohelet Working Paper_. (Hebrew)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* Ariel Karlinsky. Transitory and Permanent Poverty in Israel. _Kohelet Working Paper_. (Hebrew)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Media Publications
+======
+* Ariel Karlinsky (2019): [Price Accomdation: The Gift that keeps on taking](https://www.globes.co.il/news/article.aspx?did=1001311056). _Globes_ (Hebrew)
+
+* Ariel Karlinsky (2019): [Warning: Rent-Seekers in Israel](https://www.themarker.com/news/macro/.premium-1.7644969). _The Marker_ (Hebrew)
+
+
+Media Apperances
+======
+* The Economy Podcast (2020): [Elderly Only Quarrantine to Cope with Covid 19](https://www.youtube.com/watch?v=D5AvwLFn6pE)
+
+* The Economy Podcast (2020): [Defined Benefits Pensions in Israel](https://www.youtube.com/watch?v=qH7MyWhr2lk)
+
+* Galey Israel Radio Station (2019): [Is Higher Education Beneficial to Students and the Israeli Economy?](https://www.youtube.com/watch?v=xhxl-dDgDYI) (Hebrew)
+
+* Added Value Podcast (2017): [Episode 35: The Industrial Revolution](http://www.added-value.co/35/) (Hebrew)
+
+
+Misc
+======
+
+* Debate host (2019): [Right or Wrong Economics: A debate between Prof. Joseph Zeira & Prof. Omer Moav](https://www.youtube.com/watch?v=m0dHE_ux-YE) (Hebrew)
+
+* Debate host (2020): [Governmet Expenditures and the Deficit: A debate between MK Ori Maklev, Prof. Avi Simhon, Prof Leah Ahdut & Dr. Michael Sarel](https://www.youtube.com/watch?v=Ei0BrrVCyHE) (Hebrew)
+
+* Ariel Karlinsky & Gal Kabiri (2020): [Hitler: TIMES magazine Man of the Year 1938 Translation from English to Hebrew](https://dannyorbach.com/2020/05/23/%D7%94%D7%99%D7%98%D7%9C%D7%A8-%D7%90%D7%99%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%A0%D7%91%D7%95%D7%90%D7%94-%D7%A9%D7%94%D7%AA%D7%92%D7%A9%D7%9E%D7%94-%D7%98%D7%95%D7%A8-%D7%90%D7%95%D7%A8%D7%97/)
