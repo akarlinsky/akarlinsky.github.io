@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I'm an Economist and statistician at Kohelet Economic Forum. 
 My primary research interests are labor economics, data analysis, economics of conflict, economics of Israel and economic history.
 
