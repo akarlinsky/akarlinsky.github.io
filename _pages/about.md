@@ -33,7 +33,7 @@ Other Publications
 ======
 * Ariel Karlinsky (2020). [Elderly-Only Quarantine to Cope with the Corona Virus: Implications for the Israeli Economy and the Quality of Life of the Elderly Population](https://kohelet.org.il/wp-content/uploads/2020/04/%D7%A1%D7%92%D7%A8-%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%A4%D7%99.pdf). _Kohelet Policy Paper_. (Hebrew, [English Abstract](https://bit.ly/3aeYGRT))
 
-* Ariel Karlinsky (2020). [The Economic Impact of Shutting Down Schools for Children aged 5 to 9].(https://kohelet.org.il/wp-content/uploads/2020/04/econ.impact.child_.covid_.pdf) _Kohelet Policy Paper_. (Hebrew)
+* Ariel Karlinsky (2020). [The Economic Impact of Shutting Down Schools for Children aged 5 to 9](https://kohelet.org.il/wp-content/uploads/2020/04/econ.impact.child_.covid_.pdf). _Kohelet Policy Paper_. (Hebrew)
 
 
 Work in Progress
