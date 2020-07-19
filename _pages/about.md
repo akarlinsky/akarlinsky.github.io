@@ -17,7 +17,7 @@ I'm a member of The [Israeli Economic History Association](http://www.eha-israel
 
 Check out the blog my wife and I write together: [The Artist & the Merchant](https://www.artistandmerchant.com/), where we discuss economics, statistics and other aspects of social sciences with illustrations. (Hebrew)
 
-Check out the podcast my friends Itay Cishnevsky, Ori Katz and I host: [Creative Destruction](http://heres.podbean.com/), where we have talks with leading economist and other social scientists in Israel. (Hebrew)
+Check out the podcast my collegues Itay Cishnevsky, Ori Katz and I host: [Creative Destruction](http://heres.podbean.com/), where we have talks with leading economists and other social scientists in Israel. (Hebrew)
 
 Contact me at: [karlinsky@gmail.com](karlinsky@gmail.com).
 
