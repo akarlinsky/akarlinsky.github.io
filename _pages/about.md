@@ -11,7 +11,7 @@ redirect_from:
 
 
 I'm an Economist and Statistician at Kohelet Economic Forum. <br/>
-My primary research interests are Labor Economics, Data Analysis, Economics of Conflict, Economics of Israel and Economic History.
+I mostly do empirical work, my primary research interests are Labor Economics, Data Science, Economics of Conflict, Economics of Israel and Economic History.
 
 I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/). 
 
@@ -48,6 +48,8 @@ Work in Progress
 * Ariel Karlinsky. Ultra-Orthodox Men in Israel: Educational and Labor Market Outcomes. _Kohelet Working Paper_. (Hebrew)
 
 * Ariel Karlinsky. Transitory and Permanent Poverty in Israel. _Kohelet Working Paper_. (Hebrew)
+
+* Ariel Karlinsky. Attrition in the Israeli Longitudinal Dataset. _CBS Working Paper_. (Hebrew) 
 
 
 Media Publications
