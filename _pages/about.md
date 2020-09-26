@@ -11,7 +11,7 @@ redirect_from:
 
 
 I'm an Economist and Statistician at Kohelet Economic Forum. <br/>
-I mostly do empirical work, my primary research interests are Labor Economics, Data Science, Economics of Conflict, Economics of Israel and Economic History.
+I mostly do empirical work, my primary research interests are Labor Economics, Data Science, Economics of Conflict, Health Economics, Economics of Israel and Economic History.
 
 I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/). 
 
@@ -25,6 +25,8 @@ Contact me at: [karlinsky@gmail.com](karlinsky@gmail.com).
 
 Peer Reviewed Publications
 ======
+* Claude Berrebi, Ariel Karlinsky & Hanan Yonah. [Individual and Community Behavioral Responses to Natural Disasters](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630856). _Natural Hazards_. (Forthcoming) 
+
 * Ariel Karlinsky & Michael Sarel (2020).  Estimating the Cost of Raising Children in Israel. _Israeli Economic Review_. (Forthcoming) 
 
 * Ariel Karlinsky & Michael Sarel (2019).  [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). _The Economic Quarterly_ 63 (3/4). (Hebrew) 
@@ -39,8 +41,6 @@ Other Publications
 
 Work in Progress
 ======
-* Claude Berrebi, Hanan Yonah & Ariel Karlinsky. [Individual and Community Behavioral Responses to Natural Disasters](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630856). _SSRN Working Paper_
-
 * Ariel Karlinsky, Michael Sarel & Yoav Mazeh. Child Support in Israel: Determination and Allocation between Parents. _Kohelet Working Paper_. (Hebrew)
 
 * Ariel Karlinsky & Nissan Avraham. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
@@ -54,6 +54,8 @@ Work in Progress
 
 Media Publications
 ======
+* Ariel Karlinsky (2020): [Covid-19 and Excess Mortality in Israel and Around the World](https://www.the7eye.org.il/387586). _The 7th Eye_ (Hebrew)
+
 * Ariel Karlinsky (2019): [Price Accomdation: The Gift that keeps on taking](https://www.globes.co.il/news/article.aspx?did=1001311056). _Globes_ (Hebrew)
 
 * Ariel Karlinsky (2019): [Warning: Rent-Seekers in Israel](https://www.themarker.com/news/macro/.premium-1.7644969). _The Marker_ (Hebrew)
