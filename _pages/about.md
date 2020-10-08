@@ -13,7 +13,7 @@ redirect_from:
 I'm an Economist and Statistician at Kohelet Economic Forum. <br/>
 I mostly do empirical work, my primary research interests are Labor Economics, Data Science, Economics of Conflict, Health Economics, Economics of Israel and Economic History.
 
-I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/). 
+I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/) and [Midaat](http://midaat.org.il/), an NGO dedicated to promoting public health via evidence based medicine and practices. 
 
 Check out the blog my wife and I write together: [The Artist & the Merchant](https://www.artistandmerchant.com/), where we discuss economics, statistics and other aspects of social sciences with illustrations. (Hebrew)
 
@@ -34,9 +34,13 @@ Peer Reviewed Publications
 
 Other Publications
 ======
+* Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). _Kohelet Policy Paper_. (Hebrew). 
+
 * Ariel Karlinsky (2020). [Elderly-Only Quarantine to Cope with the Corona Virus: Implications for the Israeli Economy and the Quality of Life of the Elderly Population](https://kohelet.org.il/wp-content/uploads/2020/04/%D7%A1%D7%92%D7%A8-%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%A4%D7%99.pdf). _Kohelet Policy Paper_. (Hebrew, [English Abstract](https://bit.ly/3aeYGRT))
 
 * Ariel Karlinsky (2020). [The Economic Impact of Shutting Down Schools for Children aged 5 to 9](https://kohelet.org.il/wp-content/uploads/2020/04/econ.impact.child_.covid_.pdf). _Kohelet Policy Paper_. (Hebrew)
+
+* Asher Meir, Ziv Rubin & Ariel Karlinsky (2018). [The Urban Settlement in Israel: Past Present and Future](https://kohelet.org.il/wp-content/uploads/2018/03/economic.chartbook2018.pdf#page=60). _Kohelet Chart Book 2018_. (Hebrew)
 
 
 Work in Progress
