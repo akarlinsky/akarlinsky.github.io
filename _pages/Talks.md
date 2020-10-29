@@ -4,15 +4,7 @@ title: "Talks"
 permalink: /Talks/
 author_profile: true
 ---
-<style>
 
-
-li, ul, ol, p, h1, h2, h3, h4 {
-  font-family: "alef";
-  direction: rtl;
-}
-
-</style>
 
 מדרשת נורדיה 28.6.2020
 ======
