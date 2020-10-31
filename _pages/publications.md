@@ -31,3 +31,5 @@ Work in Progress
 
 * Ariel Karlinsky. Transitory and Permanent Poverty in Israel. _Kohelet Working Paper_. (Hebrew)
 
+* Ariel Karlinsky. Attrition in the Israeli Longitudinal Dataset. _CBS Working Paper_. (Hebrew) 
+

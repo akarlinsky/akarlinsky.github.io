@@ -25,11 +25,11 @@ Contact me at: [karlinsky@gmail.com](karlinsky@gmail.com).
 
 Peer Reviewed Publications
 ======
-* Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2020). [Individual and Community Behavioral Responses to Natural Disasters](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3630856). _Natural Hazards_. (Forthcoming) 
+* Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2020). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). _Natural Hazards_
 
-* Ariel Karlinsky & Michael Sarel (2020).  Estimating the Cost of Raising Children in Israel. _Israeli Economic Review_. (Forthcoming) 
+* Ariel Karlinsky & Michael Sarel (2020).  [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/en/Research/Periodicals/Documents/iser%20Vol%2018%20No%201/8-KarlinskySarel-P91-137%20%28002%29.pdf). _Israeli Economic Review_ 18(1). 
 
-* Ariel Karlinsky & Michael Sarel (2019).  [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). _The Economic Quarterly_ 63 (3/4). (Hebrew) 
+* Ariel Karlinsky & Michael Sarel (2019).  [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). _The Economic Quarterly_ 63 (3/4). (Hebrew)  
 
 
 Other Publications
