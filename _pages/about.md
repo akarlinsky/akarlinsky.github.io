@@ -34,6 +34,8 @@ Peer Reviewed Publications
 
 Other Publications
 ======
+* Ariel Karlinsky, Michael Sarel & Yoav Mazeh. [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). _Kohelet Working Paper_. (Hebrew)
+
 * Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). _Kohelet Policy Paper_. (Hebrew). 
 
 * Ariel Karlinsky (2020). [Elderly-Only Quarantine to Cope with the Corona Virus: Implications for the Israeli Economy and the Quality of Life of the Elderly Population](https://kohelet.org.il/wp-content/uploads/2020/04/%D7%A1%D7%92%D7%A8-%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%A4%D7%99.pdf). _Kohelet Policy Paper_. (Hebrew, [English Abstract](https://bit.ly/3aeYGRT))
@@ -45,8 +47,6 @@ Other Publications
 
 Work in Progress
 ======
-* Ariel Karlinsky, Michael Sarel & Yoav Mazeh. Child Support in Israel: Determination and Allocation between Parents. _Kohelet Working Paper_. (Hebrew)
-
 * Ariel Karlinsky & Nissan Avraham. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
 
 * Ariel Karlinsky. Ultra-Orthodox Men in Israel: Educational and Labor Market Outcomes. _Kohelet Working Paper_. (Hebrew)
