@@ -34,7 +34,7 @@ Peer Reviewed Publications
 
 Other Publications
 ======
-* Ariel Karlinsky, Michael Sarel & Yoav Mazeh. [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). _Kohelet Working Paper_. (Hebrew)
+* Ariel Karlinsky, Michael Sarel & Yoav Mazeh. [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). _Kohelet Policy Paper 67_. (Hebrew)
 
 * Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). _Kohelet Policy Paper_. (Hebrew). 
 
