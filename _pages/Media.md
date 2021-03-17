@@ -28,6 +28,11 @@ author_profile: true
 
 * [DW](https://www.dw.com/ru/nemeckij-uchenyj-o-covid-19-v-belarusi/a-56413826) (Russian)
 
+* [Huffington Post](https://www.huffingtonpost.fr/entry/un-an-apres-arrive-t-on-a-compter-correctement-les-malades-et-morts-du-covid_fr_604f93b5c5b64ac582970fa7) (French)
+
+* [Liberation](https://www.liberation.fr/checknews/une-etude-de-la-surmortalite-montre-que-certains-pays-ont-largement-sous-declare-les-morts-du-covid-20210310_UBE4CSVLABGTFJDMGO3D4STC7Q/) (French)
+
+
 
 [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2)
 ======
