@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-[The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic](https://doi.org/10.1101/2021.01.27.21250604)
+Karlinsky & Kobak 2021 - [The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic](https://doi.org/10.1101/2021.01.27.21250604)
 ======
 * [The Economist](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker)
 
@@ -34,7 +34,7 @@ author_profile: true
 
 
 
-[Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2)
+Berrebi, Karlinsky & Yonah - [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2)
 ======
 * [Forward](https://forward.com/fast-forward/465218/chaos-fosters-philanthropy-more-than-crime-israeli-researchers-say/)
 
