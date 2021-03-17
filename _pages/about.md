@@ -47,6 +47,8 @@ Other Publications
 
 Work in Progress
 ======
+* Ariel Karlinsky & Dmitry Kobak. [The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic](https://doi.org/10.1101/2021.01.27.21250604). _medRxiv_. 
+
 * Ariel Karlinsky & Nissan Avraham. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
 
 * Ariel Karlinsky. Ultra-Orthodox Men in Israel: Educational and Labor Market Outcomes. _Kohelet Working Paper_. (Hebrew)
