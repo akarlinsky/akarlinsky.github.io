@@ -1,38 +1,50 @@
 ---
 layout: archive
-title: "Media"
+title: "Media Coverage"
 permalink: /Media/
 author_profile: true
 ---
-Media Coverage of my research. 
-Peer Reviewed Publications
+
+
+[The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic](https://doi.org/10.1101/2021.01.27.21250604)
 ======
-* Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2020). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). _Natural Hazards_
+* [The Economist](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker)
 
-* Ariel Karlinsky & Michael Sarel (2020).  [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/en/Research/Periodicals/Documents/iser%20Vol%2018%20No%201/8-KarlinskySarel-P91-137%20%28002%29.pdf). _Israeli Economic Review_ 18(1). 
+* [The Financial Times](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938)
 
-* Ariel Karlinsky & Michael Sarel (2019).  [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). _The Economic Quarterly_ 63 (3/4). (Hebrew) 
+* [Eurasianet](https://eurasianet.org/statistics-show-central-asia-underreporting-covid-deaths) 
+
+* [Radio-Canada](https://ici.radio-canada.ca/nouvelle/1776841/annee-pandemie-cartes-graphiques-coronavirus-covid) (French)
+
+* [Ynet](https://www.ynet.co.il/health/article/r1oqxZEeu) (Hebrew)
+
+* [Globes](https://www.globes.co.il/news/article.aspx?did=1001358959) (Hebrew)
+
+* [The Diplomat](https://thediplomat.com/2021/03/how-covid-19-changed-asia/)
+
+* [El Pais](https://elpais.com/mexico/2021-02-21/mexico-es-uno-de-los-paises-con-mayor-mortalidad-por-covid-del-mundo.html) (Spanish)
+
+* [Yleisradio Oy](https://yle.fi/uutiset/3-11829569) (Finnish)
+
+* [DW](https://www.dw.com/ru/nemeckij-uchenyj-o-covid-19-v-belarusi/a-56413826) (Russian)
 
 
-Other Publications
+[Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2)
 ======
-* Ariel Karlinsky, Michael Sarel & Yoav Mazeh. [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). _Kohelet Policy Paper 67_. (Hebrew)
+* [Forward](https://forward.com/fast-forward/465218/chaos-fosters-philanthropy-more-than-crime-israeli-researchers-say/)
 
-* Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). _Kohelet Policy Paper_. (Hebrew). 
+* [Jerusalem Post](https://www.jpost.com/health-science/natural-disasters-lead-to-decreased-crime-increased-charity-study-659610)
 
+* [Times of Israel](https://www.timesofisrael.com/israeli-study-crime-drops-in-areas-hit-by-natural-disasters/)
 
-* Ariel Karlinsky (2020). [Elderly-Only Quarantine to Cope with the Corona Virus: Implications for the Israeli Economy and the Quality of Life of the Elderly Population](https://kohelet.org.il/wp-content/uploads/2020/04/%D7%A1%D7%92%D7%A8-%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%A4%D7%99.pdf). _Kohelet Policy Paper_. (Hebrew, [English Abstract](https://bit.ly/3aeYGRT))
+* [Eureka Alert](https://www.eurekalert.org/pub_releases/2021-02/thuo-teo021621.php)
 
-* Ariel Karlinsky (2020). [The Economic Impact of Shutting Down Schools for Children aged 5 to 9](https://kohelet.org.il/wp-content/uploads/2020/04/econ.impact.child_.covid_.pdf). _Kohelet Policy Paper_. (Hebrew)
+* [Arutz Sheva](https://www.israelnationalnews.com/News/News.aspx/296914)
 
+* [TPS](https://tps.co.il/articles/israeli-study-finds-natural-disasters-generate-increase-in-charity-decrease-in-crime/)
 
-Work in Progress
-======
-* Ariel Karlinsky & Nissan Avraham. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
+* [The World News](https://theworldnews.net/il-news/israeli-study-crime-drops-in-areas-hit-by-natural-disasters)
 
-* Ariel Karlinsky. Ultra-Orthodox Men in Israel: Educational and Labor Market Outcomes. _Kohelet Working Paper_. (Hebrew)
+* [Israel 365 News](https://www.israel365news.com/187252/jerusalem-researchers-uncover-the-hidden-side-of-natural-disasters/)
 
-* Ariel Karlinsky. Transitory and Permanent Poverty in Israel. _Kohelet Working Paper_. (Hebrew)
-
-* Ariel Karlinsky. Attrition in the Israeli Longitudinal Dataset. _CBS Working Paper_. (Hebrew) 
-
+* [News Splinter](https://newssplinter.com/israeleng/israeli-study-crime-rates-decrease-in-areas-affected-by-natural-disasters/)
