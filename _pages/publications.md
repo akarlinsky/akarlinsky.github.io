@@ -7,7 +7,7 @@ author_profile: true
 
 Peer Reviewed Publications
 ======
-* Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2020). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). _Natural Hazards_
+* Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2020). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). _Natural Hazards_ 105, 1541–1569
 
 * Ariel Karlinsky & Michael Sarel (2020).  [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/en/Research/Periodicals/Documents/iser%20Vol%2018%20No%201/8-KarlinskySarel-P91-137%20%28002%29.pdf). _Israeli Economic Review_ 18(1). 
 
@@ -16,7 +16,11 @@ Peer Reviewed Publications
 
 Other Publications
 ======
-* Ariel Karlinsky, Michael Sarel & Yoav Mazeh. [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). _Kohelet Policy Paper 67_. (Hebrew)
+* Ariel Karlinsky (2021). [Ultra-Orthodox Men in Israel: Educational and Labor Market Outcomes From a Longitudinal Perspective](https://kohelet.org.il/wp-content/uploads/2021/03/KPF0119_EduEmpEarn_H_txt70.pdf). _Kohelet Working Paper 70_. (Hebrew)
+
+* Ariel Karlinsky (2021). [Earned Income Tax Credit in Israel: Recipents and Amounts in Adminstrative vs. Survey data](https://kohelet.org.il/wp-content/uploads/2021/03/%D7%9E%D7%A1-%D7%94%D7%9B%D7%A0%D7%A1%D7%94-%D7%A9%D7%9C%D7%99%D7%9C%D7%99-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C.pdf). _Kohelet Policy Paper_. (Hebrew)
+
+* Ariel Karlinsky, Michael Sarel & Yoav Mazeh (2020). [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). _Kohelet Policy Paper 67_. (Hebrew)
 
 * Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). _Kohelet Policy Paper_. (Hebrew). 
 
@@ -31,8 +35,6 @@ Work in Progress
 * Ariel Karlinsky & Dmitry Kobak. [The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic](https://doi.org/10.1101/2021.01.27.21250604). _medRxiv_. 
 
 * Ariel Karlinsky & Nissan Avraham. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
-
-* Ariel Karlinsky. Ultra-Orthodox Men in Israel: Educational and Labor Market Outcomes. _Kohelet Working Paper_. (Hebrew)
 
 * Ariel Karlinsky. Transitory and Permanent Poverty in Israel. _Kohelet Working Paper_. (Hebrew)
 
