@@ -25,7 +25,7 @@ Contact me at: [karlinsky@gmail.com](karlinsky@gmail.com).
 
 Peer Reviewed Publications
 ======
-* Ariel Karlinsky & Dmitry Kobak 2021, [Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset](https://doi.org/10.7554/eLife.69336), _eLife_ 
+* Ariel Karlinsky & Dmitry Kobak (2021). [Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset](https://doi.org/10.7554/eLife.69336). _eLife_ 
 
 * Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2020). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). _Natural Hazards 105, 1541–1569_
 
