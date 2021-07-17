@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Karlinsky & Kobak 2021 - [The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic](https://doi.org/10.1101/2021.01.27.21250604)
+Karlinsky & Kobak 2021 - [Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset](https://doi.org/10.7554/eLife.69336)
 ======
 * [The Economist](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker)
 
@@ -34,6 +34,7 @@ Karlinsky & Kobak 2021 - [The World Mortality Dataset: Tracking excess mortality
 
 * [Radio Free Europe](https://www.svoboda.org/a/31097374.html) (Russian)
 
+* [BBC Brazil](https://www.youtube.com/watch?v=PhggwjCgC6g&t=1s) (Portuguese)
 
 
 Berrebi, Karlinsky & Yonah - [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2)
