@@ -10,8 +10,12 @@ redirect_from:
 <br/><br/>
 
 
-I'm an Economist and Statistician at Kohelet Economic Forum. <br/>
+I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew University. <br/>
 I mostly do empirical work, my primary research interests are Labor Economics, Data Science, Economics of Conflict, Health Economics, Economics of Israel and Economic History.
+
+I'm the creator and maintainer of the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality), an open dataset that tracks all-cause-mortality data from around the world.
+
+I'm a member of the [World Health Organization Technical Advisory Group on COVID-19 Mortality Assessment](https://www.who.int/data/technical-advisory-group/covid-19--mortality-assessment/membership). 
 
 I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/) and [Midaat](http://midaat.org.il/), an NGO dedicated to promoting public health via evidence based medicine and practices. 
 
@@ -27,7 +31,7 @@ Peer Reviewed Publications
 ======
 * Ariel Karlinsky & Dmitry Kobak (2021). [Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset](https://doi.org/10.7554/eLife.69336). _eLife_ 
 
-* Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2020). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). _Natural Hazards 105, 1541–1569_
+* Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2021). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). _Natural Hazards 105, 1541–1569_
 
 * Ariel Karlinsky & Michael Sarel (2020).  [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/en/Research/Periodicals/Documents/iser%20Vol%2018%20No%201/8-KarlinskySarel-P91-137%20%28002%29.pdf). _Israeli Economic Review_ 18(1). 
 
@@ -40,7 +44,7 @@ Other Publications
 
 * Ariel Karlinsky (2021). [Earned Income Tax Credit in Israel: Recipents and Amounts in Adminstrative vs. Survey data](https://kohelet.org.il/wp-content/uploads/2021/03/%D7%9E%D7%A1-%D7%94%D7%9B%D7%A0%D7%A1%D7%94-%D7%A9%D7%9C%D7%99%D7%9C%D7%99-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C.pdf). _Kohelet Policy Paper_. (Hebrew)
 
-* Ariel Karlinsky, Michael Sarel & Yoav Mazeh. [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). _Kohelet Policy Paper 67_. (Hebrew)
+* Ariel Karlinsky, Michael Sarel & Yoav Mazeh (2020). [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). _Kohelet Policy Paper 67_. (Hebrew)
 
 * Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). _Kohelet Policy Paper_. (Hebrew). 
 
@@ -53,15 +57,22 @@ Other Publications
 
 Work in Progress
 ======
-* Ariel Karlinsky & Nissan Avraham. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
+* Ariel Karlinsky. [National Excess Mortality from Sub-National data: Method and Application for Argentina](https://www.medrxiv.org/content/10.1101/2021.08.30.21262814v2). _medRxiv_
 
- * Ariel Karlinsky. Transitory and Permanent Poverty in Israel. _Kohelet Working Paper_. (Hebrew)
+* Ariel Karlinsky. [International Completeness of Death Registration 2015-2019](https://www.medrxiv.org/content/10.1101/2021.08.12.21261978v1). _medRxiv_
 
-* Ariel Karlinsky. Attrition in the Israeli Longitudinal Dataset. _CBS Working Paper_. (Hebrew) 
+* Mahan Ghafari, Oliver J Watson, Ariel Karlinsky, Luca Ferretti & Aris Katzourakis. [A framework for reconstructing SARS-CoV-2 transmission dynamics using excess mortality data](https://www.medrxiv.org/content/10.1101/2021.10.04.21264540v2). _medRxiv_
+
+* Ariel Karlinsky, Micahel Sarel, Eran Yogev & Tom Sadeh Nissan Avraham. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
+
+* Ariel Karlinsky. Transitory and Permanent Poverty in Israel.
+
 
 
 Media Publications
 ======
+* Ariel Karlinsky (2021): [Deaths and Excess Deaths in Brazil](https://sciencebasedmedicine.org/deaths-and-excess-deaths-in-brazil/). _Science Based Medicine_
+
 * Ariel Karlinsky (2020): [Covid-19 and Excess Mortality in Israel and Around the World](https://www.the7eye.org.il/387586). _The 7th Eye_ (Hebrew)
 
 * Ariel Karlinsky (2019): [Price Accomdation: The Gift that keeps on taking](https://www.globes.co.il/news/article.aspx?did=1001311056). _Globes_ (Hebrew)
