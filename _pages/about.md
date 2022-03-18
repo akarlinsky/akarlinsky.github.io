@@ -63,7 +63,7 @@ Work in Progress
 
 * Mahan Ghafari, Oliver J Watson, Ariel Karlinsky, Luca Ferretti & Aris Katzourakis. [A framework for reconstructing SARS-CoV-2 transmission dynamics using excess mortality data](https://www.medrxiv.org/content/10.1101/2021.10.04.21264540v2). _medRxiv_
 
-* Ariel Karlinsky, Micahel Sarel, Eran Yogev & Tom Sadeh Nissan Avraham. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
+* Ariel Karlinsky, Micahel Sarel, Eran Yogev & Tom Sadeh. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
 
 * Ariel Karlinsky. Transitory and Permanent Poverty in Israel.
 
