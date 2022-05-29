@@ -19,7 +19,7 @@ I'm a member of the [World Health Organization Technical Advisory Group on COVID
 
 I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/) and [Midaat](http://midaat.org.il/), an NGO dedicated to promoting public health via evidence based medicine and practices. 
 
-Check out the blog my wife and I write together: [The Artist & the Merchant](https://www.artistandmerchant.com/), where we discuss economics, statistics and other aspects of social sciences with illustrations. (Hebrew)
+Check out the blog Gal Kabiri and I write together: [The Artist & the Merchant](https://www.artistandmerchant.com/), where we discuss economics, statistics and other aspects of social sciences with illustrations. (Hebrew)
 
 Check out the podcast I host my with my collegues Itay Cishnevsky and Ori Katz : [Creative Destruction](http://heres.podbean.com/), where we have talks with leading economists and other social scientists in Israel. (Hebrew)
 
@@ -29,6 +29,8 @@ Contact me at: [karlinsky@gmail.com](karlinsky@gmail.com).
 
 Peer Reviewed Publications
 ======
+* Ariel Karlinsky (2022). [Estimating national excess mortality from subnational data: application to Argentina](https://doi.org/10.26633%2FRPSP.2022.19). _Revista Panamericana de Salud Pública_
+
 * Ariel Karlinsky & Dmitry Kobak (2021). [Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset](https://doi.org/10.7554/eLife.69336). _eLife_ 
 
 * Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2021). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). _Natural Hazards 105, 1541–1569_
@@ -57,8 +59,6 @@ Other Publications
 
 Work in Progress
 ======
-* Ariel Karlinsky. [National Excess Mortality from Sub-National data: Method and Application for Argentina](https://www.medrxiv.org/content/10.1101/2021.08.30.21262814v2). _medRxiv_
-
 * Ariel Karlinsky. [International Completeness of Death Registration 2015-2019](https://www.medrxiv.org/content/10.1101/2021.08.12.21261978v1). _medRxiv_
 
 * Mahan Ghafari, Oliver J Watson, Ariel Karlinsky, Luca Ferretti & Aris Katzourakis. [A framework for reconstructing SARS-CoV-2 transmission dynamics using excess mortality data](https://www.medrxiv.org/content/10.1101/2021.10.04.21264540v2). _medRxiv_
@@ -98,5 +98,20 @@ Misc
 * Debate host (2020): [Governmet Expenditures and the Deficit: A debate between MK Ori Maklev, Prof. Avi Simhon, Prof Leah Ahdut & Dr. Michael Sarel](https://www.youtube.com/watch?v=Ei0BrrVCyHE). (Hebrew)
 
 * Debate host (2019): [Right or Wrong Economics: A debate between Prof. Joseph Zeira & Prof. Omer Moav](https://www.youtube.com/watch?v=m0dHE_ux-YE). (Hebrew)
+
+
+Acknowledgments
+======
+The following is a list of published works where I'm formally acknowledged for helping, Though not my own, they are an important part of my contribution and I'm happy to assist colleagues in my areas of expertise. 
+
+* Levin AT, Owusu-Boaitey N, Pugh S, et al (2022). [Assessing the burden of COVID-19 in developing countries: systematic review, meta-analysis and public policy implications](10.1136/bmjgh-2022-008477) _BMJ Global Health_.
+
+* Katz, O. (2022). [The Israeli Miracle: Human Capital, Democracy and Illusions](https://www.kinbooks.co.il/keshef-kachol-lavan.html) (Hebrew).
+
+* Kobak, D. (2022). [Underdispersion: A statistical anomaly in reported Covid data](https://doi.org/10.1111/1740-9713.01627). _Significance_, 19: 10-13. 
+
+* Leffler, C. T., Lykins V, J. D., Das, S., Yang, E., & Konda, S. (2022). [Preliminary Analysis of Excess Mortality in India During the COVID-19 Pandemic](https://doi.org/10.4269/ajtmh.21-0864). _The American Journal of Tropical Medicine and Hygiene_ 106(5), 1507-1510.
+
+* Campbell, H., & Gustafson, P. (2021). [Inferring the COVID-19 infection fatality rate in the community-dwelling population: A simple Bayesian evidence synthesis of seroprevalence study data and imprecise mortality data](https://doi.org/10.1017/S0950268821002405). _Epidemiology and Infection_, 149, E243.
 
 
