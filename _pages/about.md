@@ -29,7 +29,9 @@ Contact me at: [karlinsky@gmail.com](karlinsky@gmail.com).
 
 Peer Reviewed Publications
 ======
-* Ariel Karlinsky (2022). [Estimating national excess mortality from subnational data: application to Argentina](https://doi.org/10.26633%2FRPSP.2022.19). _Revista Panamericana de Salud Pública_
+* Mahan Ghafari, Oliver J. Watson, Ariel Karlinsky, Luca Ferretti & Aris Katzourakis (2022). [A framework for reconstructing SARS-CoV-2 transmission dynamics using excess mortality data](https://doi.org/10.1038/s41467-022-30711-y). _Nature Communications_
+
+* Ariel Karlinsky (2022). [Estimating national excess mortality from subnational data: application to Argentina](https://doi.org/10.26633%2FRPSP.2022.19). _Revista Panamericana de Salud Publica_
 
 * Ariel Karlinsky & Dmitry Kobak (2021). [Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset](https://doi.org/10.7554/eLife.69336). _eLife_ 
 
