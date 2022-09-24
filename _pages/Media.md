@@ -56,3 +56,20 @@ Berrebi, Karlinsky & Yonah - [Individual and Community Behavioral Responses to N
 * [Israel 365 News](https://www.israel365news.com/187252/jerusalem-researchers-uncover-the-hidden-side-of-natural-disasters/)
 
 * [News Splinter](https://newssplinter.com/israeleng/israeli-study-crime-rates-decrease-in-areas-affected-by-natural-disasters/)
+
+
+Ariel Karlinsky (2021). [Ultra-Orthodox Men in Israel: Educational and Labor Market Outcomes From a Longitudinal Perspective](https://kohelet.org.il/wp-content/uploads/2021/03/KPF0119_EduEmpEarn_H_txt70.pdf). _Kohelet Working Paper 70_.
+======
+* [Ynet](https://www.ynet.co.il/news/article/bkhxezcgs) (Hebrew)
+
+* [Globes](https://www.globes.co.il/news/article.aspx?did=1001424346) (Hebrew)
+
+* [Globes](https://www.globes.co.il/news/article.aspx?did=1001364991) (Hebrew)
+
+* [Makor Rishon](https://www.makorrishon.co.il/opinion/525051/) (Hebrew)
+
+* [The Marker](https://www.themarker.com/career/2022-04-06/ty-article/.premium/00000180-5bc5-de8c-a1aa-dbed8b610000) (Hebrew)
+
+
+
+

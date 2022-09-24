@@ -63,8 +63,6 @@ Work in Progress
 ======
 * Ariel Karlinsky. [International Completeness of Death Registration 2015-2019](https://www.medrxiv.org/content/10.1101/2021.08.12.21261978v1). _medRxiv_
 
-* Mahan Ghafari, Oliver J Watson, Ariel Karlinsky, Luca Ferretti & Aris Katzourakis. [A framework for reconstructing SARS-CoV-2 transmission dynamics using excess mortality data](https://www.medrxiv.org/content/10.1101/2021.10.04.21264540v2). _medRxiv_
-
 * Ariel Karlinsky, Micahel Sarel, Eran Yogev & Tom Sadeh. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
 
 * Ariel Karlinsky. Transitory and Permanent Poverty in Israel.
