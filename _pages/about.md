@@ -29,6 +29,10 @@ Contact me at: [karlinsky@gmail.com](karlinsky@gmail.com).
 
 Peer Reviewed Publications
 ======
+* William Msemburi, Ariel Karlinsky , Victoria Knutson , Serge Aleshin-Guendel , Somnath Chatterji  & Jon Wakefield (Forthcoming). The WHO estimates of excess mortality associated with the COVID-19 pandemic. _Nature_
+
+* Victoria Knutson, Serge Aleshin-Guendel, Ariel Karlinsky, William Msemburi & Jon Wakefield (Forthcoming). Estimating Global and Country-Specific Excess Mortality During the COVID-19 Pandemic. _The Annals of Applied Statistics_ 
+
 * Mahan Ghafari, Oliver J. Watson, Ariel Karlinsky, Luca Ferretti & Aris Katzourakis (2022). [A framework for reconstructing SARS-CoV-2 transmission dynamics using excess mortality data](https://doi.org/10.1038/s41467-022-30711-y). _Nature Communications_
 
 * Ariel Karlinsky (2022). [Estimating national excess mortality from subnational data: application to Argentina](https://doi.org/10.26633%2FRPSP.2022.19). _Revista Panamericana de Salud Publica_
@@ -37,9 +41,8 @@ Peer Reviewed Publications
 
 * Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2021). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). _Natural Hazards 105, 1541–1569_
 
-* Ariel Karlinsky & Michael Sarel (2020).  [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/en/Research/Periodicals/Documents/iser%20Vol%2018%20No%201/8-KarlinskySarel-P91-137%20%28002%29.pdf). _Israeli Economic Review_ 18(1). 
+* Ariel Karlinsky & Michael Sarel (2020).  [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/en/Research/Periodicals/Documents/iser%20Vol%2018%20No%201/8-KarlinskySarel-P91-137%20%28002%29.pdf). _Israeli Economic Review_ 18(1). (Originally published in Hebrew as [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). _The Economic Quarterly_ 63 (3/4)).
 
-* Ariel Karlinsky & Michael Sarel (2019).  [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). _The Economic Quarterly_ 63 (3/4). (Hebrew)  
 
 
 Other Publications
@@ -103,6 +106,8 @@ Misc
 Acknowledgments
 ======
 The following is a list of published works where I'm formally acknowledged for helping, Though not my own, they are an important part of my contribution and I'm happy to assist colleagues in my areas of expertise. 
+
+* Kasper P Kepp, Jonas Björk, Vasilis Kontis, et al (2022) [Estimates of excess mortality for the five Nordic countries during the COVID-19 pandemic 2020−2021](https://doi.org/10.1093/ije/dyac204) _International Journal of Epidemiology_.
 
 * Levin AT, Owusu-Boaitey N, Pugh S, et al (2022). [Assessing the burden of COVID-19 in developing countries: systematic review, meta-analysis and public policy implications](10.1136/bmjgh-2022-008477) _BMJ Global Health_.
 
