@@ -29,7 +29,7 @@ Contact me at: [karlinsky@gmail.com](karlinsky@gmail.com).
 
 Peer Reviewed Publications
 ======
-* William Msemburi, Ariel Karlinsky , Victoria Knutson , Serge Aleshin-Guendel , Somnath Chatterji  & Jon Wakefield (Forthcoming). The WHO estimates of excess mortality associated with the COVID-19 pandemic. _Nature_
+* William Msemburi, Ariel Karlinsky , Victoria Knutson , Serge Aleshin-Guendel , Somnath Chatterji  & Jon Wakefield (2022). [The WHO estimates of excess mortality associated with the COVID-19 pandemic](https://doi.org/10.1038/s41586-022-05522-2). _Nature_
 
 * Victoria Knutson, Serge Aleshin-Guendel, Ariel Karlinsky, William Msemburi & Jon Wakefield (Forthcoming). Estimating Global and Country-Specific Excess Mortality During the COVID-19 Pandemic. _The Annals of Applied Statistics_ 
 
