@@ -29,17 +29,20 @@ Contact me at: [karlinsky@gmail.com](karlinsky@gmail.com).
 
 Peer Reviewed Publications
 ======
-* William Msemburi, Ariel Karlinsky , Victoria Knutson , Serge Aleshin-Guendel , Somnath Chatterji  & Jon Wakefield (2022). [The WHO estimates of excess mortality associated with the COVID-19 pandemic](https://doi.org/10.1038/s41586-022-05522-2). _Nature_
+======
+* Ariel Karlinsky & Orsola Torrisi (2023). [The Casualties of War: An Excess Mortality Estimate of Lives Lost in the 2020 Nagorno-Karabakh Conflict](https://doi.org/10.1007/s11113-023-09790-2). _Population Research and Policy Review_
 
-* Victoria Knutson, Serge Aleshin-Guendel, Ariel Karlinsky, William Msemburi & Jon Wakefield (Forthcoming). Estimating Global and Country-Specific Excess Mortality During the COVID-19 Pandemic. _The Annals of Applied Statistics_ 
+* William Msemburi, Ariel Karlinsky , Victoria Knutson , Serge Aleshin-Guendel , Somnath Chatterji  & Jon Wakefield (2023). [The WHO estimates of excess mortality associated with the COVID-19 pandemic](https://doi.org/10.1038/s41586-022-05522-2).  _Nature_
+
+* Victoria Knutson, Serge Aleshin-Guendel, Ariel Karlinsky, William Msemburi & Jon Wakefield (2023). [Estimating Global and Country-Specific Excess Mortality During the COVID-19 Pandemic](https://doi.org/10.1214/22-AOAS1673). _The Annals of Applied Statistics_ 
 
 * Mahan Ghafari, Oliver J. Watson, Ariel Karlinsky, Luca Ferretti & Aris Katzourakis (2022). [A framework for reconstructing SARS-CoV-2 transmission dynamics using excess mortality data](https://doi.org/10.1038/s41467-022-30711-y). _Nature Communications_
 
-* Ariel Karlinsky (2022). [Estimating national excess mortality from subnational data: application to Argentina](https://doi.org/10.26633%2FRPSP.2022.19). _Revista Panamericana de Salud Publica_
+* Ariel Karlinsky (2022). [Estimating national excess mortality from subnational data: application to Argentina](https://doi.org/10.26633%2FRPSP.2022.19). _Revista Panamericana de Salud Pública_
 
 * Ariel Karlinsky & Dmitry Kobak (2021). [Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset](https://doi.org/10.7554/eLife.69336). _eLife_ 
 
-* Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2021). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). _Natural Hazards 105, 1541–1569_
+* Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2020). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). _Natural Hazards_ 105, 1541–1569
 
 * Ariel Karlinsky & Michael Sarel (2020).  [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/en/Research/Periodicals/Documents/iser%20Vol%2018%20No%201/8-KarlinskySarel-P91-137%20%28002%29.pdf). _Israeli Economic Review_ 18(1). (Originally published in Hebrew as [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). _The Economic Quarterly_ 63 (3/4)).
 
@@ -60,17 +63,6 @@ Other Publications
 * Ariel Karlinsky (2020). [The Economic Impact of Shutting Down Schools for Children aged 5 to 9](https://kohelet.org.il/wp-content/uploads/2020/04/econ.impact.child_.covid_.pdf). _Kohelet Policy Paper_. (Hebrew)
 
 * Asher Meir, Ziv Rubin & Ariel Karlinsky (2018). [The Urban Settlement in Israel: Past Present and Future](https://kohelet.org.il/wp-content/uploads/2018/03/economic.chartbook2018.pdf#page=60). _Kohelet Chart Book 2018_. (Hebrew)
-
-
-Work in Progress
-======
-* Ariel Karlinsky. [International Completeness of Death Registration 2015-2019](https://www.medrxiv.org/content/10.1101/2021.08.12.21261978v1). _medRxiv_
-
-* Ariel Karlinsky, Micahel Sarel, Eran Yogev & Tom Sadeh. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
-
-* Ariel Karlinsky. Transitory and Permanent Poverty in Israel.
-
-
 
 Media Publications
 ======
@@ -105,7 +97,7 @@ Misc
 
 Acknowledgments
 ======
-The following is a list of published works where I'm formally acknowledged for helping, Though not my own, they are an important part of my contribution and I'm happy to assist colleagues in my areas of expertise. 
+The following is a list of published works where I'm formally acknowledged for helping, Though not my own, they are an important part of my contributions and I'm happy to assist colleagues in my areas of expertise. 
 
 * Kasper P Kepp, Jonas Björk, Vasilis Kontis, et al (2022) [Estimates of excess mortality for the five Nordic countries during the COVID-19 pandemic 2020−2021](https://doi.org/10.1093/ije/dyac204) _International Journal of Epidemiology_.
 

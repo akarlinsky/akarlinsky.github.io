@@ -7,9 +7,11 @@ author_profile: true
 
 Peer Reviewed Publications
 ======
-* William Msemburi, Ariel Karlinsky , Victoria Knutson , Serge Aleshin-Guendel , Somnath Chatterji  & Jon Wakefield (2023). [The WHO estimates of excess mortality associated with the COVID-19 pandemic](https://doi.org/10.1038/s41586-022-05522-2) _Nature_
+* Ariel Karlinsky & Orsola Torrisi (2023). [The Casualties of War: An Excess Mortality Estimate of Lives Lost in the 2020 Nagorno-Karabakh Conflict](https://doi.org/10.1007/s11113-023-09790-2). _Population Research and Policy Review_
 
-* Victoria Knutson, Serge Aleshin-Guendel, Ariel Karlinsky, William Msemburi & Jon Wakefield (Forthcoming). Estimating Global and Country-Specific Excess Mortality During the COVID-19 Pandemic. _The Annals of Applied Statistics_ 
+* William Msemburi, Ariel Karlinsky , Victoria Knutson , Serge Aleshin-Guendel , Somnath Chatterji  & Jon Wakefield (2023). [The WHO estimates of excess mortality associated with the COVID-19 pandemic](https://doi.org/10.1038/s41586-022-05522-2).  _Nature_
+
+* Victoria Knutson, Serge Aleshin-Guendel, Ariel Karlinsky, William Msemburi & Jon Wakefield (2023). [Estimating Global and Country-Specific Excess Mortality During the COVID-19 Pandemic](https://doi.org/10.1214/22-AOAS1673). _The Annals of Applied Statistics_ 
 
 * Mahan Ghafari, Oliver J. Watson, Ariel Karlinsky, Luca Ferretti & Aris Katzourakis (2022). [A framework for reconstructing SARS-CoV-2 transmission dynamics using excess mortality data](https://doi.org/10.1038/s41467-022-30711-y). _Nature Communications_
 
@@ -32,17 +34,6 @@ Other Publications
 
 * Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). _Kohelet Policy Paper_. (Hebrew). 
 
-
 * Ariel Karlinsky (2020). [Elderly-Only Quarantine to Cope with the Corona Virus: Implications for the Israeli Economy and the Quality of Life of the Elderly Population](https://kohelet.org.il/wp-content/uploads/2020/04/%D7%A1%D7%92%D7%A8-%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%A4%D7%99.pdf). _Kohelet Policy Paper_. (Hebrew, [English Abstract](https://bit.ly/3aeYGRT))
 
 * Ariel Karlinsky (2020). [The Economic Impact of Shutting Down Schools for Children aged 5 to 9](https://kohelet.org.il/wp-content/uploads/2020/04/econ.impact.child_.covid_.pdf). _Kohelet Policy Paper_. (Hebrew)
-
-
-Work in Progress
-======
-* Ariel Karlinsky & Nissan Avraham. Taxation, Transfer Payments and Extended Income in Israel. _Kohelet Working Paper_. (Hebrew)
-
-* Ariel Karlinsky. Transitory and Permanent Poverty in Israel. _Kohelet Working Paper_. (Hebrew)
-
-* Ariel Karlinsky. Attrition in the Israeli Longitudinal Dataset. _CBS Working Paper_. (Hebrew) 
-
