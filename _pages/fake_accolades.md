@@ -9,11 +9,9 @@ author_profile: true
 
 The following is a list of (fake) praise and accolades I got from various junk journals and conferences. This list is useful and funny/sad because:
 
-1.  These journals usually have nothing to do with my research areas, so are clearly not even trying.
+1.  These journals usually have nothing to do with my research areas, so are clearly not even trying and are obviously predatory.
 
-2.  They are obviously predatory
-
-3.  You should believe in yourself as much as predatory journals (fake) believe in you!
+2.  You should believe in yourself as much as predatory journals (fake) believe in you!
 
 -   "We are impressed with one of your publications entitled...". *Journal of Biotechnology and Biomedicine (ISSN: 2642-9128)*
 
