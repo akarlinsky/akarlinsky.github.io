@@ -5,30 +5,30 @@ permalink: /fake_accolades/
 author_profile: true
 ---
 
-Fake Accolades
-======
-The following is a list of (fake) praise and accolades I got from various junk journals and conferences. 
-This list is useful and funny/sad because: 
-(1) These journals usually have nothing to do with my research areas, so are clearly not even trying
-(2) They are obviously predatory; (3) You should believe in yourself as much as predatory journals (fake) believe in you.
+# Fake Accolades
 
-* "We are impressed with one of your publications entitled...". _Journal of Biotechnology and Biomedicine (ISSN: 2642-9128)_
+The following is a list of (fake) praise and accolades I got from various junk journals and conferences. This list is useful and funny/sad because:
 
-* "If this is short notice, please do send short article, we hope short article is not time taken for an eminent author like you". _Biomedical Journal of Scientific & Technical Research (ISSN: 2574 -1241)_
+1.  These journals usually have nothing to do with my research areas, so are clearly not even trying.
 
-* "We need your support by submitting your valuable manuscripts to our Journal". _Annals of Case Reports and Clinical Studies (ISSN: 2834-5673)_
+2.  They are obviously predatory
 
-* "I appreciate your professionalism and knowledge after a view at your article". _Journal of Genetic Research and Disorders_ 
+3.  You should believe in yourself as much as predatory journals (fake) believe in you!
 
-* "Up on your eminence, we are happy to provide you 2 nights complementary accommodation on your registration fee." _BioMat Conference 2023_
+-   "We are impressed with one of your publications entitled...". *Journal of Biotechnology and Biomedicine (ISSN: 2642-9128)*
 
-* "I appreciate your professionalism and knowledge after a view at your published article entitled..." _Journal of Surgical Case Reports and Images (ISSN Online: 2690-1897)_ 
+-   "If this is short notice, please do send short article, we hope short article is not time taken for an eminent author like you". *Biomedical Journal of Scientific & Technical Research (ISSN: 2574 -1241)*
 
-* "We are impressed with one of your publications entitled..." _Journal of Nanotechnology Research (ISSN: 2688-8521)_
+-   "We need your support by submitting your valuable manuscripts to our Journal". *Annals of Case Reports and Clinical Studies (ISSN: 2834-5673)*
 
-* "Karlinsky Ariel--Your recent article was fantastic!!" _4th Euro-Global Summit on Future of Biologics and Biosimilars (BioL-BioS 2023)_ 
+-   "I appreciate your professionalism and knowledge after a view at your article". *Journal of Genetic Research and Disorders*
 
-* "Basing on your outstanding contribution to the scientific community, we would like to write a book for you." _"UK based publishing company"_
+-   "Up on your eminence, we are happy to provide you 2 nights complementary accommodation on your registration fee." *BioMat Conference 2023*
 
+-   "I appreciate your professionalism and knowledge after a view at your published article entitled..." *Journal of Surgical Case Reports and Images (ISSN Online: 2690-1897)*
 
+-   "We are impressed with one of your publications entitled..." *Journal of Nanotechnology Research (ISSN: 2688-8521)*
 
+-   "Karlinsky Ariel--Your recent article was fantastic!!" *4th Euro-Global Summit on Future of Biologics and Biosimilars (BioL-BioS 2023)*
+
+-   "Basing on your outstanding contribution to the scientific community, we would like to write a book for you." *"UK based publishing company"*
