@@ -9,25 +9,13 @@ redirect_from:
 
 <br/><br/>
 
-I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew University. <br/> I mostly do empirical work, my primary research interests are Labor Economics, Data Science, Economics of Conflict, Health Economics, Economics of Israel and Economic History.
-
-I'm the creator and maintainer of the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality), an open dataset that tracks all-cause-mortality data from around the world.
-
-I'm a member of the [World Health Organization Technical Advisory Group on COVID-19 Mortality Assessment](https://www.who.int/data/technical-advisory-group/covid-19--mortality-assessment/membership).
-
-I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/) and [Midaat](http://midaat.org.il/), an NGO dedicated to promoting public health via evidence based medicine and practices.
-
-Check out the blog Gal Kabiri and I write together: [The Artist & the Merchant](https://www.artistandmerchant.com/), where we discuss economics, statistics and other aspects of social sciences with illustrations. (Hebrew)
-
-Check out the podcast I host my with my collegues Itay Cishnevsky and Ori Katz : [Creative Destruction](http://heres.podbean.com/), where we have talks with leading economists and other social scientists in Israel. (Hebrew)
-
-Contact me at: [karlinsky\@gmail.com](karlinsky@gmail.com).
+I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew University. <br/> I mostly do empirical work, my primary research interests are Political Economics, Public Economics, Health and Demographics, Data Science, Economics of Israel and Economic History.
 
 # Peer Reviewed Publications
 
 -   Ariel Karlinsky & Orsola Torrisi (2023). [The Casualties of War: An Excess Mortality Estimate of Lives Lost in the 2020 Nagorno-Karabakh Conflict](https://doi.org/10.1007/s11113-023-09790-2). *Population Research and Policy Review*
 
--   William Msemburi, Ariel Karlinsky , Victoria Knutson , Serge Aleshin-Guendel , Somnath Chatterji & Jon Wakefield (2023). [The WHO estimates of excess mortality associated with the COVID-19 pandemic](https://doi.org/10.1038/s41586-022-05522-2). *Nature*
+-   William Msemburi, Ariel Karlinsky, Victoria Knutson, Serge Aleshin-Guendel, Somnath Chatterji & Jon Wakefield (2023). [The WHO estimates of excess mortality associated with the COVID-19 pandemic](https://doi.org/10.1038/s41586-022-05522-2). *Nature*
 
 -   Victoria Knutson, Serge Aleshin-Guendel, Ariel Karlinsky, William Msemburi & Jon Wakefield (2023). [Estimating Global and Country-Specific Excess Mortality During the COVID-19 Pandemic](https://doi.org/10.1214/22-AOAS1673). *The Annals of Applied Statistics*
 
@@ -39,7 +27,19 @@ Contact me at: [karlinsky\@gmail.com](karlinsky@gmail.com).
 
 -   Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2020). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). *Natural Hazards* 105, 1541--1569
 
--   Ariel Karlinsky & Michael Sarel (2020). [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/en/Research/Periodicals/Documents/iser%20Vol%2018%20No%201/8-KarlinskySarel-P91-137%20%28002%29.pdf). *Israeli Economic Review* 18(1). (Originally published in Hebrew as [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). *The Economic Quarterly* 63 (3/4)).
+-   Ariel Karlinsky & Michael Sarel (2020). [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/en/Research/Periodicals/Documents/iser%20Vol%2018%20No%201/8-KarlinskySarel-P91-137%20%28002%29.pdf). *Israeli Economic Review* 18(1). (Originally published in Hebrew as [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). *The Economic Quarterly* 63 (3/4))
+
+# Work in Progress
+
+-   Ariel Karlinsky & Moses Shayo. On the Manipulation of Information by Governments. *Under Review*
+
+-   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel. Complete Fiscal Accounts: Households Net Transfers in Israel. *Under Review*
+
+-   Ariel Karlinsky. International Completeness of Death Registration. *Demographic Research* (forthcoming)
+
+-   Ariel Karlinsky. Supply, Demand and the Burden of Taxation
+
+-   Ariel Karlinsky. The Political Implications of Wrong Information
 
 # Other Publications
 
@@ -57,37 +57,25 @@ Contact me at: [karlinsky\@gmail.com](karlinsky@gmail.com).
 
 -   Asher Meir, Ziv Rubin & Ariel Karlinsky (2018). [The Urban Settlement in Israel: Past Present and Future](https://kohelet.org.il/wp-content/uploads/2018/03/economic.chartbook2018.pdf#page=60). *Kohelet Chart Book 2018*. (Hebrew)
 
-# Media Publications
+# Additional Activities
 
--   Ariel Karlinsky (2021): [Deaths and Excess Deaths in Brazil](https://sciencebasedmedicine.org/deaths-and-excess-deaths-in-brazil/). *Science Based Medicine*
+I'm the creator and maintainer of the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality), an open dataset that tracks all-cause-mortality data from around the world.
 
--   Ariel Karlinsky (2020): [Covid-19 and Excess Mortality in Israel and Around the World](https://www.the7eye.org.il/387586). *The 7th Eye* (Hebrew)
+I'm a member of the [World Health Organization Technical Advisory Group on COVID-19 Mortality Assessment](https://www.who.int/data/technical-advisory-group/covid-19--mortality-assessment/membership).
 
--   Ariel Karlinsky (2019): [Price Accomdation: The Gift that keeps on taking](https://www.globes.co.il/news/article.aspx?did=1001311056). *Globes* (Hebrew)
+I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/) and [Midaat](http://midaat.org.il/), an NGO dedicated to promoting public health via evidence based medicine and practices.
 
--   Ariel Karlinsky (2019): [Warning: Rent-Seekers in Israel](https://www.themarker.com/news/macro/.premium-1.7644969). *The Marker* (Hebrew)
+Check out the blog Gal Kabiri and I write together: [The Artist & the Merchant](https://www.artistandmerchant.com/), where we discuss economics, statistics and other aspects of social sciences with illustrations. (Hebrew)
 
-# Media Appearances
-
--   The Economy Podcast (2020): [Elderly Only Quarrantine to Cope with Covid 19](https://www.youtube.com/watch?v=D5AvwLFn6pE). (Hebrew)
-
--   The Economy Podcast (2020): [Defined Benefits Pensions in Israel](https://www.youtube.com/watch?v=qH7MyWhr2lk). (Hebrew)
-
--   Galey Israel Radio Station (2019): [Is Higher Education Beneficial to Students and the Israeli Economy?](https://www.youtube.com/watch?v=xhxl-dDgDYI). (Hebrew)
-
--   Added Value Podcast (2017): [Episode 35: The Industrial Revolution](http://www.added-value.co/35/). (Hebrew)
-
-# Misc
-
--   Ariel Karlinsky & Gal Kabiri (2020): [Hitler: TIMES magazine Man of the Year 1938 Translation from English to Hebrew](https://dannyorbach.com/2020/05/23/%D7%94%D7%99%D7%98%D7%9C%D7%A8-%D7%90%D7%99%D7%A9-%D7%94%D7%A9%D7%A0%D7%94-%D7%A0%D7%91%D7%95%D7%90%D7%94-%D7%A9%D7%94%D7%AA%D7%92%D7%A9%D7%9E%D7%94-%D7%98%D7%95%D7%A8-%D7%90%D7%95%D7%A8%D7%97/). (Hebrew)
-
--   Debate host (2020): [Governmet Expenditures and the Deficit: A debate between MK Ori Maklev, Prof. Avi Simhon, Prof Leah Ahdut & Dr. Michael Sarel](https://www.youtube.com/watch?v=Ei0BrrVCyHE). (Hebrew)
-
--   Debate host (2019): [Right or Wrong Economics: A debate between Prof. Joseph Zeira & Prof. Omer Moav](https://www.youtube.com/watch?v=m0dHE_ux-YE). (Hebrew)
+Check out the podcast I host my with my collegues Itay Cishnevsky and Ori Katz : [Creative Destruction](http://heres.podbean.com/), where we have talks with leading economists and other social scientists in Israel. (Hebrew)
 
 # Acknowledgments
 
-The following is a list of published works where I'm formally acknowledged for helping, Though not my own, they are an important part of my contributions and I'm happy to assist colleagues in my areas of expertise.
+The following is a list of published works where I'm formally acknowledged for helping. Though not my own, they are an important part of my contributions and I'm happy to assist colleagues in my areas of expertise.
+
+-   Evers, N. F. G., Evers, G. W., Greenfield, P. M., Yuan, Q., Gutierrez, F. B., Halim, G., & Du, H. (2024). [COVID-19 Increased Mortality Salience, Collectivism, and Subsistence Activities: A Theory-Driven Analysis of Online Adaptation in the United States, Indonesia, Mexico, and Japan](https://doi.org/10.1177/00220221231226310). *Journal of Cross-Cultural Psychology*
+
+-   Ghafari, M., Hosseinpour, S., Rezaee-Zavareh, M.S. et al. (2023) [A quantitative evaluation of the impact of vaccine roll-out rate and coverage on reducing deaths: insights from the first 2 years of COVID-19 epidemic in Iran](https://doi.org/10.1186/s12916-023-03127-8). *BMC Medicine*
 
 -   Kasper P Kepp, Jonas Björk, Vasilis Kontis, et al (2022) [Estimates of excess mortality for the five Nordic countries during the COVID-19 pandemic 2020−2021](https://doi.org/10.1093/ije/dyac204) *International Journal of Epidemiology*.
 
@@ -100,3 +88,9 @@ The following is a list of published works where I'm formally acknowledged for h
 -   Leffler, C. T., Lykins V, J. D., Das, S., Yang, E., & Konda, S. (2022). [Preliminary Analysis of Excess Mortality in India During the COVID-19 Pandemic](https://doi.org/10.4269/ajtmh.21-0864). *The American Journal of Tropical Medicine and Hygiene* 106(5), 1507-1510.
 
 -   Campbell, H., & Gustafson, P. (2021). [Inferring the COVID-19 infection fatality rate in the community-dwelling population: A simple Bayesian evidence synthesis of seroprevalence study data and imprecise mortality data](https://doi.org/10.1017/S0950268821002405). *Epidemiology and Infection*, 149, E243.
+
+# Reviewer
+
+List (in alphabetical order) of journals that I have peer-reviewed manuscripts for:
+
+Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of the Royal Statistical Society: Series A, Nature Medicine, PLOS-ONE, Preventive Medicine Reports, Science Advances, Scientific Reports.

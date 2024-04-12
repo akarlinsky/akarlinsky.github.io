@@ -7,11 +7,11 @@ author_profile: true
 
 # Fake Accolades
 
-The following is a list of (fake) praise and accolades I got from various junk journals and conferences. This list is useful and funny/sad because:
+The following is a list of (fake) praise and accolades I got from various junk journals and conferences. This list is useful and funny/sad because these journals usually have nothing to do with my research areas, so are clearly not even trying and obviously predatory.
 
-1.  These journals usually have nothing to do with my research areas, so are clearly not even trying and are obviously predatory.
+### *You should believe in yourself as much as predatory journals (fake) believe in you!*
 
-2.  You should believe in yourself as much as predatory journals (fake) believe in you!
+-   "As an expert in the field of Nursing, we invite you to associate...". *Trends in Nursing and Health Care Research (ISSN: 2771-2842)*
 
 -   "We are impressed with one of your publications entitled...". *Journal of Biotechnology and Biomedicine (ISSN: 2642-9128)*
 
@@ -30,3 +30,5 @@ The following is a list of (fake) praise and accolades I got from various junk j
 -   "Karlinsky Ariel--Your recent article was fantastic!!" *4th Euro-Global Summit on Future of Biologics and Biosimilars (BioL-BioS 2023)*
 
 -   "Basing on your outstanding contribution to the scientific community, we would like to write a book for you." *"UK based publishing company"*
+
+-   "Your expertise and insights would be of immense value to our study..." *OB-GYN Conference*
