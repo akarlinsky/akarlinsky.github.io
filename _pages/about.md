@@ -13,6 +13,8 @@ I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew Univ
 
 # Peer Reviewed Publications
 
+-   Ariel Karlinsky (2024). [International Completeness of Death Registration](https://doi.org/10.4054/DemRes.2024.50.38). *Demographic Research*
+
 -   Ariel Karlinsky & Orsola Torrisi (2023). [The Casualties of War: An Excess Mortality Estimate of Lives Lost in the 2020 Nagorno-Karabakh Conflict](https://doi.org/10.1007/s11113-023-09790-2). *Population Research and Policy Review*
 
 -   William Msemburi, Ariel Karlinsky, Victoria Knutson, Serge Aleshin-Guendel, Somnath Chatterji & Jon Wakefield (2023). [The WHO estimates of excess mortality associated with the COVID-19 pandemic](https://doi.org/10.1038/s41586-022-05522-2). *Nature*
@@ -35,13 +37,13 @@ I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew Univ
 
 -   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel. Complete Fiscal Accounts: Households Net Transfers in Israel. *Under Review*
 
--   Ariel Karlinsky. International Completeness of Death Registration. *Demographic Research* (forthcoming)
-
 -   Ariel Karlinsky. Supply, Demand and the Burden of Taxation
 
 -   Ariel Karlinsky. The Political Implications of Wrong Information
 
 # Other Publications
+
+-   Jonas Scholey, Ariel Karlinsky, Dmitry Kobak & Charles Tallack (2023). [Conflicting COVID-19 excess mortality estimates](https://doi.org/10.1016/S0140-6736(23)00116-2). *The Lancet*.
 
 -   Ariel Karlinsky (2021). [Ultra-Orthodox Men in Israel: Educational and Labor Market Outcomes From a Longitudinal Perspective](https://kohelet.org.il/wp-content/uploads/2021/03/KPF0119_EduEmpEarn_H_txt70.pdf). *Kohelet Working Paper 70*. (Hebrew)
 
@@ -49,7 +51,7 @@ I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew Univ
 
 -   Ariel Karlinsky, Michael Sarel & Yoav Mazeh (2020). [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). *Kohelet Policy Paper 67*. (Hebrew)
 
--   Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). *Kohelet Policy Paper*. (Hebrew).
+-   Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). *Kohelet Policy Paper*. (Hebrew)
 
 -   Ariel Karlinsky (2020). [Elderly-Only Quarantine to Cope with the Corona Virus: Implications for the Israeli Economy and the Quality of Life of the Elderly Population](https://kohelet.org.il/wp-content/uploads/2020/04/%D7%A1%D7%92%D7%A8-%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%A4%D7%99.pdf). *Kohelet Policy Paper*. (Hebrew, [English Abstract](https://bit.ly/3aeYGRT))
 
@@ -93,4 +95,4 @@ The following is a list of published works where I'm formally acknowledged for h
 
 List (in alphabetical order) of journals that I have peer-reviewed manuscripts for:
 
-Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of the Royal Statistical Society: Series A, Nature Medicine, PLOS-ONE, Preventive Medicine Reports, Science Advances, Scientific Reports.
+Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of the Royal Statistical Society: Series A, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
