@@ -1,11 +1,9 @@
 ---
 layout: talks
-title: "Talks"
+title: "Conferences, Workshops, Invited Talks & Presentations"
 permalink: /Talks/
 author_profile: true
 ---
-
-# Invited Talks & Presentations
 
 -   German Society for Demography (DGD) Annual Meeting 03/2024. University of Hamburg, Germany (Remote)
 
