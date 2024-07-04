@@ -13,6 +13,8 @@ I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew Univ
 
 # Peer Reviewed Publications
 
+-   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (Forthcoming). [Complete Fiscal Accounts: Households' Net Transfers in Israel](https://ieca.org.il/wp-content/uploads/2024/06/%D7%AA%D7%A7%D7%A6%D7%99%D7%A8-%D7%9C%D7%90%D7%AA%D7%A8.pdf). *The Economic Quarterly*. (Hebrew)
+
 -   Ariel Karlinsky (2024). [International Completeness of Death Registration](https://doi.org/10.4054/DemRes.2024.50.38). *Demographic Research*
 
 -   Ariel Karlinsky & Orsola Torrisi (2023). [The Casualties of War: An Excess Mortality Estimate of Lives Lost in the 2020 Nagorno-Karabakh Conflict](https://doi.org/10.1007/s11113-023-09790-2). *Population Research and Policy Review*
@@ -34,8 +36,6 @@ I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew Univ
 # Work in Progress
 
 -   Ariel Karlinsky & Moses Shayo. On the Manipulation of Information by Governments. *Under Review*
-
--   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel. Complete Fiscal Accounts: Households Net Transfers in Israel. *Under Review*
 
 -   Ariel Karlinsky. Supply, Demand and the Burden of Taxation
 
