@@ -13,7 +13,7 @@ I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew Univ
 
 # Peer Reviewed Publications
 
--   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (Forthcoming). [Complete Fiscal Accounts: Households' Net Transfers in Israel](https://bit.ly/KefTaxesDivMain). *The Economic Quarterly*. (Hebrew)
+-   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (Forthcoming). [Complete Fiscal Accounts: Households' Net Transfers in Israel](https://bit.ly/KefTaxesDivMain). *The Economic Quarterly* (Hebrew)
 
 -   Ariel Karlinsky (2024). [International Completeness of Death Registration](https://doi.org/10.4054/DemRes.2024.50.38). *Demographic Research*
 
@@ -35,29 +35,27 @@ I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew Univ
 
 # Work in Progress
 
--   Ariel Karlinsky & Moses Shayo. (On the Manipulation of Information by Governments)[https://dx.doi.org/10.2139/ssrn.4794704]. *Under Review*
-
--   Ariel Karlinsky. Supply, Demand and the Burden of Taxation
+-   Ariel Karlinsky & Moses Shayo. [On the Manipulation of Information by Governments](https://dx.doi.org/10.2139/ssrn.4794704). *Under Review*
 
 -   Ariel Karlinsky. The Political Implications of Wrong Information
 
 # Other Publications
 
--   Jonas Scholey, Ariel Karlinsky, Dmitry Kobak & Charles Tallack (2023). [Conflicting COVID-19 excess mortality estimates](https://doi.org/10.1016/S0140-6736(23)00116-2). *The Lancet*.
+-   Jonas Scholey, Ariel Karlinsky, Dmitry Kobak & Charles Tallack (2023). [Conflicting COVID-19 excess mortality estimates](https://doi.org/10.1016/S0140-6736(23)00116-2). *The Lancet*
 
--   Ariel Karlinsky (2021). [Ultra-Orthodox Men in Israel: Educational and Labor Market Outcomes From a Longitudinal Perspective](https://kohelet.org.il/wp-content/uploads/2021/03/KPF0119_EduEmpEarn_H_txt70.pdf). *Kohelet Working Paper 70*. (Hebrew)
+-   Ariel Karlinsky (2021). [Ultra-Orthodox Men in Israel: Educational and Labor Market Outcomes From a Longitudinal Perspective](https://kohelet.org.il/wp-content/uploads/2021/03/KPF0119_EduEmpEarn_H_txt70.pdf). *Kohelet Working Paper 70* (Hebrew)
 
--   Ariel Karlinsky (2021). [Earned Income Tax Credit in Israel: Recipents and Amounts in Adminstrative vs. Survey data](https://kohelet.org.il/wp-content/uploads/2021/03/%D7%9E%D7%A1-%D7%94%D7%9B%D7%A0%D7%A1%D7%94-%D7%A9%D7%9C%D7%99%D7%9C%D7%99-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C.pdf). *Kohelet Policy Paper*. (Hebrew)
+-   Ariel Karlinsky (2021). [Earned Income Tax Credit in Israel: Recipents and Amounts in Adminstrative vs. Survey data](https://kohelet.org.il/wp-content/uploads/2021/03/%D7%9E%D7%A1-%D7%94%D7%9B%D7%A0%D7%A1%D7%94-%D7%A9%D7%9C%D7%99%D7%9C%D7%99-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C.pdf). *Kohelet Policy Paper* (Hebrew)
 
--   Ariel Karlinsky, Michael Sarel & Yoav Mazeh (2020). [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). *Kohelet Policy Paper 67*. (Hebrew)
+-   Ariel Karlinsky, Michael Sarel & Yoav Mazeh (2020). [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). *Kohelet Policy Paper 67* (Hebrew)
 
--   Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). *Kohelet Policy Paper*. (Hebrew)
+-   Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). *Kohelet Policy Paper* (Hebrew)
 
--   Ariel Karlinsky (2020). [Elderly-Only Quarantine to Cope with the Corona Virus: Implications for the Israeli Economy and the Quality of Life of the Elderly Population](https://kohelet.org.il/wp-content/uploads/2020/04/%D7%A1%D7%92%D7%A8-%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%A4%D7%99.pdf). *Kohelet Policy Paper*. (Hebrew, [English Abstract](https://bit.ly/3aeYGRT))
+-   Ariel Karlinsky (2020). [Elderly-Only Quarantine to Cope with the Corona Virus: Implications for the Israeli Economy and the Quality of Life of the Elderly Population](https://kohelet.org.il/wp-content/uploads/2020/04/%D7%A1%D7%92%D7%A8-%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%A4%D7%99.pdf). *Kohelet Policy Paper* (Hebrew, [English Abstract](https://bit.ly/3aeYGRT))
 
--   Ariel Karlinsky (2020). [The Economic Impact of Shutting Down Schools for Children aged 5 to 9](https://kohelet.org.il/wp-content/uploads/2020/04/econ.impact.child_.covid_.pdf). *Kohelet Policy Paper*. (Hebrew)
+-   Ariel Karlinsky (2020). [The Economic Impact of Shutting Down Schools for Children aged 5 to 9](https://kohelet.org.il/wp-content/uploads/2020/04/econ.impact.child_.covid_.pdf). *Kohelet Policy Paper* (Hebrew)
 
--   Asher Meir, Ziv Rubin & Ariel Karlinsky (2018). [The Urban Settlement in Israel: Past Present and Future](https://kohelet.org.il/wp-content/uploads/2018/03/economic.chartbook2018.pdf#page=60). *Kohelet Chart Book 2018*. (Hebrew)
+-   Asher Meir, Ziv Rubin & Ariel Karlinsky (2018). [The Urban Settlement in Israel: Past Present and Future](https://kohelet.org.il/wp-content/uploads/2018/03/economic.chartbook2018.pdf#page=60). *Kohelet Chart Book 2018* (Hebrew)
 
 # Additional Activities
 
@@ -79,17 +77,17 @@ The following is a list of published works where I'm formally acknowledged for h
 
 -   Ghafari, M., Hosseinpour, S., Rezaee-Zavareh, M.S. et al. (2023) [A quantitative evaluation of the impact of vaccine roll-out rate and coverage on reducing deaths: insights from the first 2 years of COVID-19 epidemic in Iran](https://doi.org/10.1186/s12916-023-03127-8). *BMC Medicine*
 
--   Kasper P Kepp, Jonas Björk, Vasilis Kontis, et al (2022) [Estimates of excess mortality for the five Nordic countries during the COVID-19 pandemic 2020−2021](https://doi.org/10.1093/ije/dyac204) *International Journal of Epidemiology*.
+-   Kasper P Kepp, Jonas Björk, Vasilis Kontis, et al (2022) [Estimates of excess mortality for the five Nordic countries during the COVID-19 pandemic 2020−2021](https://doi.org/10.1093/ije/dyac204) *International Journal of Epidemiology*
 
--   Levin AT, Owusu-Boaitey N, Pugh S, et al (2022). [Assessing the burden of COVID-19 in developing countries: systematic review, meta-analysis and public policy implications](10.1136/bmjgh-2022-008477) *BMJ Global Health*.
+-   Levin AT, Owusu-Boaitey N, Pugh S, et al (2022). [Assessing the burden of COVID-19 in developing countries: systematic review, meta-analysis and public policy implications](10.1136/bmjgh-2022-008477) *BMJ Global Health*
 
--   Katz, O. (2022). [The Israeli Miracle: Human Capital, Democracy and Illusions](https://www.kinbooks.co.il/keshef-kachol-lavan.html) (Hebrew).
+-   Katz, O. (2022). [The Israeli Miracle: Human Capital, Democracy and Illusions](https://www.kinbooks.co.il/keshef-kachol-lavan.html) (Hebrew)
 
--   Kobak, D. (2022). [Underdispersion: A statistical anomaly in reported Covid data](https://doi.org/10.1111/1740-9713.01627). *Significance*, 19: 10-13.
+-   Kobak, D. (2022). [Underdispersion: A statistical anomaly in reported Covid data](https://doi.org/10.1111/1740-9713.01627). *Significance*
 
--   Leffler, C. T., Lykins V, J. D., Das, S., Yang, E., & Konda, S. (2022). [Preliminary Analysis of Excess Mortality in India During the COVID-19 Pandemic](https://doi.org/10.4269/ajtmh.21-0864). *The American Journal of Tropical Medicine and Hygiene* 106(5), 1507-1510.
+-   Leffler, C. T., Lykins V, J. D., Das, S., Yang, E., & Konda, S. (2022). [Preliminary Analysis of Excess Mortality in India During the COVID-19 Pandemic](https://doi.org/10.4269/ajtmh.21-0864). *The American Journal of Tropical Medicine and Hygiene*
 
--   Campbell, H., & Gustafson, P. (2021). [Inferring the COVID-19 infection fatality rate in the community-dwelling population: A simple Bayesian evidence synthesis of seroprevalence study data and imprecise mortality data](https://doi.org/10.1017/S0950268821002405). *Epidemiology and Infection*, 149, E243.
+-   Campbell, H., & Gustafson, P. (2021). [Inferring the COVID-19 infection fatality rate in the community-dwelling population: A simple Bayesian evidence synthesis of seroprevalence study data and imprecise mortality data](https://doi.org/10.1017/S0950268821002405). *Epidemiology and Infection*
 
 # Reviewer
 
