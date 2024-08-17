@@ -1,7 +1,7 @@
 ---
 layout: talks
 title: "Conferences, Workshops, Invited Talks & Presentations"
-permalink: /Talks/
+#permalink: /Talks/
 author_profile: true
 ---
 

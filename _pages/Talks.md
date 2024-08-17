@@ -1,11 +1,11 @@
 ---
 layout: talks
-title: "Conferences, Workshops, Invited Talks & Presentations"
+title: "Conferences and Invited Talks "
 permalink: /Talks/
 author_profile: true
 ---
 
-# Conferences and Invited Talks 
+# Conferences & Invited Talks 
 
 -    The Federmann Center for the Study of Rationality Annual Retreat 03/2024. *Tzuba, Israel*
 
