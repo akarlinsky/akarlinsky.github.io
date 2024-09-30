@@ -71,7 +71,9 @@ Check out the podcast I host my with my collegues Itay Cishnevsky and Ori Katz :
 
 # Acknowledgments
 
-The following is a list of published works where I'm formally acknowledged for helping. Though not my own, they are an important part of my contributions and I'm happy to assist colleagues in my areas of expertise.
+The following is a list of peer-reviewed articles, books and media where I'm formally acknowledged for helping. Though not my own, they are an important part of my contributions and I'm happy to assist colleagues in my areas of expertise.
+
+-    Emily Foxhall, Alejandra Martinez, Yuriko Schumacher, Dylan Baddour & Martha Pskowski (2024). [Texas likely undercounting heat-related deaths](https://www.texastribune.org/2024/08/14/texas-heat-deaths-undercount/). *Texas Tribune*
 
 -   Evers, N. F. G., Evers, G. W., Greenfield, P. M., Yuan, Q., Gutierrez, F. B., Halim, G., & Du, H. (2024). [COVID-19 Increased Mortality Salience, Collectivism, and Subsistence Activities: A Theory-Driven Analysis of Online Adaptation in the United States, Indonesia, Mexico, and Japan](https://doi.org/10.1177/00220221231226310). *Journal of Cross-Cultural Psychology*
 
@@ -88,6 +90,14 @@ The following is a list of published works where I'm formally acknowledged for h
 -   Leffler, C. T., Lykins V, J. D., Das, S., Yang, E., & Konda, S. (2022). [Preliminary Analysis of Excess Mortality in India During the COVID-19 Pandemic](https://doi.org/10.4269/ajtmh.21-0864). *The American Journal of Tropical Medicine and Hygiene*
 
 -   Campbell, H., & Gustafson, P. (2021). [Inferring the COVID-19 infection fatality rate in the community-dwelling population: A simple Bayesian evidence synthesis of seroprevalence study data and imprecise mortality data](https://doi.org/10.1017/S0950268821002405). *Epidemiology and Infection*
+
+-   Aldhous P., Lee S.M & Hirji Zahra (2021). [The Texas Winter Storm And Power Outages Killed Hundreds More People Than The State Says](https://www.buzzfeednews.com/article/peteraldhous/texas-winter-storm-power-outage-death-toll). *BuzzFeed News*
+
+-   Claude Berrebi & Hanan Yonah (2020). [Crime and Philanthropy: Prosocial and Antisocial Responses to Mass Shootings](https://doi.org/10.1080/15564886.2020.1787281). *Victims & Offenders*
+
+-   Claude Berrebi & Hanan Yonah (2017). [Philanthropy in Israel: An Updated Picture](https://www.taubcenter.org.il/en/research/philanthropy-in-israel-an-updated-picture/). *Taub Research Center*
+
+-   Claude Berrebi & Hanan Yonah (2016). [Terrorism and philanthropy: the effect of terror attacks on the scope of giving by individuals and households](https://doi.org/10.1007/s11127-016-0375-y). *Public Choice* 
 
 # Reviewer
 
