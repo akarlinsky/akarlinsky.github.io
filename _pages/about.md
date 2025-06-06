@@ -13,7 +13,7 @@ I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew Univ
 
 # Peer Reviewed Publications
 
--   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (Forthcoming). [Complete Fiscal Accounts: Households' Net Transfers in Israel](https://bit.ly/KefTaxesDivMain). *The Economic Quarterly* (Hebrew)
+-   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (Forthcoming). [Complete Fiscal Accounts: Households' Net Transfers in Israel](https://ieca.org.il/wp-content/uploads/2024/11/%D7%A2%D7%9C-%D7%94%D7%9E%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%A2%D7%9C-%D7%94%D7%A0%D7%A4%D7%9C%D7%90%D7%95%D7%AA-%D7%9E%D7%90%D7%95%D7%97%D7%93-%D7%9C%D7%90%D7%AA%D7%A8.pdf). *The Economic Quarterly* (Hebrew)
 
 -   Ariel Karlinsky (2024). [International Completeness of Death Registration](https://doi.org/10.4054/DemRes.2024.50.38). *Demographic Research*
 
@@ -40,6 +40,8 @@ I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew Univ
 -   Ariel Karlinsky. The Political Implications of Wrong Information
 
 # Other Publications
+
+-   Tom Sadeh & Ariel Karlinsky (2025). [Military Service in Israel](https://jppi.org.il/he/%D7%A2%D7%9C-%D7%94%D7%A9%D7%99%D7%A8%D7%95%D7%AA/). *The Jewish People Policy Institute* (Hebrew) 
 
 -   Jonas Scholey, Ariel Karlinsky, Dmitry Kobak & Charles Tallack (2023). [Conflicting COVID-19 excess mortality estimates](https://doi.org/10.1016/S0140-6736(23)00116-2). *The Lancet*
 
@@ -103,4 +105,4 @@ The following is a list of peer-reviewed articles, books and media where I'm for
 
 List (in alphabetical order) of journals that I have peer-reviewed manuscripts for:
 
-Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of the Royal Statistical Society: Series A, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
+BMC Public Health, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of the Royal Statistical Society: Series A, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
