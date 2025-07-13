@@ -75,6 +75,8 @@ Check out the podcast I host my with my collegues Itay Cishnevsky and Ori Katz :
 
 The following is a list of peer-reviewed articles, books and media where I'm formally acknowledged for helping. Though not my own, they are an important part of my contributions and I'm happy to assist colleagues in my areas of expertise.
 
+-    Uri Zak, Shoham Choshen-Hillel, Hagit Hochner & Alex Gileles-Hillel (2025). [Tired of war: Changes in the sleep of the Israeli civilian population in the wake of the Israel-Hamas war](https://doi.org/10.1016/j.ijchp.2025.100596). *Texas Tribune*
+
 -    Emily Foxhall, Alejandra Martinez, Yuriko Schumacher, Dylan Baddour & Martha Pskowski (2024). [Texas likely undercounting heat-related deaths](https://www.texastribune.org/2024/08/14/texas-heat-deaths-undercount/). *Texas Tribune*
 
 -   Evers, N. F. G., Evers, G. W., Greenfield, P. M., Yuan, Q., Gutierrez, F. B., Halim, G., & Du, H. (2024). [COVID-19 Increased Mortality Salience, Collectivism, and Subsistence Activities: A Theory-Driven Analysis of Online Adaptation in the United States, Indonesia, Mexico, and Japan](https://doi.org/10.1177/00220221231226310). *Journal of Cross-Cultural Psychology*
