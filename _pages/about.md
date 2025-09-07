@@ -9,7 +9,7 @@ redirect_from:
 
 <br/><br/>
 
-I'm an Economist and Statistician, a PHD Student in Economics at the Hebrew University. <br/> I mostly do empirical work, my primary research interests are Political Economics, Public Economics, Health and Demographics, Data Science, Economics of Israel and Economic History.
+I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew University](https://en.economics.huji.ac.il/) and Data Scientist at the [Center for Interdisciplinary Data Science Research (CIDR)](https://cidr.huji.ac.il/en/). <br/> I mostly do empirical work, my primary research interests are Political Economics, Public Economics, Health and Demographics, Data Science, Economics of Israel and Economic History.
 
 # Peer Reviewed Publications
 
@@ -107,4 +107,4 @@ The following is a list of peer-reviewed articles, books and media where I'm for
 
 List (in alphabetical order) of journals that I have peer-reviewed manuscripts for:
 
-BMC Public Health, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of the Royal Statistical Society: Series A, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
+BMC Public Health, Demographic Research, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of the Royal Statistical Society: Series A, Nature Communications, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
