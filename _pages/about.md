@@ -15,19 +15,19 @@ I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew Uni
 
 -   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (Forthcoming). [Complete Fiscal Accounts: Households' Net Transfers in Israel](https://ieca.org.il/wp-content/uploads/2024/11/%D7%A2%D7%9C-%D7%94%D7%9E%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%A2%D7%9C-%D7%94%D7%A0%D7%A4%D7%9C%D7%90%D7%95%D7%AA-%D7%9E%D7%90%D7%95%D7%97%D7%93-%D7%9C%D7%90%D7%AA%D7%A8.pdf). *The Economic Quarterly* (Hebrew)
 
--   Ariel Karlinsky (2024). [International Completeness of Death Registration](https://doi.org/10.4054/DemRes.2024.50.38). *Demographic Research*
+-   Ariel Karlinsky (2024). [International Completeness of Death Registration](https://doi.org/10.4054/DemRes.2024.50.38). *Demographic Research*. [GitHub Repository](https://github.com/akarlinsky/death_registration)
 
--   Ariel Karlinsky & Orsola Torrisi (2023). [The Casualties of War: An Excess Mortality Estimate of Lives Lost in the 2020 Nagorno-Karabakh Conflict](https://doi.org/10.1007/s11113-023-09790-2). *Population Research and Policy Review*
+-   Ariel Karlinsky & Orsola Torrisi (2023). [The Casualties of War: An Excess Mortality Estimate of Lives Lost in the 2020 Nagorno-Karabakh Conflict](https://doi.org/10.1007/s11113-023-09790-2). *Population Research and Policy Review*. [GitHub Repository](https://github.com/akarlinsky/nk-war-2020-excess-mortality)
 
--   William Msemburi, Ariel Karlinsky, Victoria Knutson, Serge Aleshin-Guendel, Somnath Chatterji & Jon Wakefield (2023). [The WHO estimates of excess mortality associated with the COVID-19 pandemic](https://doi.org/10.1038/s41586-022-05522-2). *Nature*
+-   William Msemburi, Ariel Karlinsky, Victoria Knutson, Serge Aleshin-Guendel, Somnath Chatterji & Jon Wakefield (2023). [The WHO estimates of excess mortality associated with the COVID-19 pandemic](https://doi.org/10.1038/s41586-022-05522-2). *Nature*. [GitHub Repository](https://github.com/WHOexcessc19/Codebase)
 
 -   Victoria Knutson, Serge Aleshin-Guendel, Ariel Karlinsky, William Msemburi & Jon Wakefield (2023). [Estimating Global and Country-Specific Excess Mortality During the COVID-19 Pandemic](https://doi.org/10.1214/22-AOAS1673). *The Annals of Applied Statistics*
 
--   Mahan Ghafari, Oliver J. Watson, Ariel Karlinsky, Luca Ferretti & Aris Katzourakis (2022). [A framework for reconstructing SARS-CoV-2 transmission dynamics using excess mortality data](https://doi.org/10.1038/s41467-022-30711-y). *Nature Communications*
+-   Mahan Ghafari, Oliver J. Watson, Ariel Karlinsky, Luca Ferretti & Aris Katzourakis (2022). [A framework for reconstructing SARS-CoV-2 transmission dynamics using excess mortality data](https://doi.org/10.1038/s41467-022-30711-y). *Nature Communications*. [GitHub Repository](https://github.com/OJWatson/iran-ascertainment)
 
--   Ariel Karlinsky (2022). [Estimating national excess mortality from subnational data: application to Argentina](https://doi.org/10.26633%2FRPSP.2022.19). *Revista Panamericana de Salud Pública*
+-   Ariel Karlinsky (2022). [Estimating national excess mortality from subnational data: application to Argentina](https://doi.org/10.26633%2FRPSP.2022.19). *Revista Panamericana de Salud Pública*. [GitHub Repository](https://github.com/akarlinsky/cordoba_argentina_proj)
 
--   Ariel Karlinsky & Dmitry Kobak (2021). [Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset](https://doi.org/10.7554/eLife.69336). *eLife*
+-   Ariel Karlinsky & Dmitry Kobak (2021). [Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset](https://doi.org/10.7554/eLife.69336). *eLife*. [GitHub Repository](https://github.com/akarlinsky/world_mortality)
 
 -   Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2020). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). *Natural Hazards* 105, 1541--1569
 
@@ -107,4 +107,4 @@ The following is a list of peer-reviewed articles, books and media where I'm for
 
 List (in alphabetical order) of journals that I have peer-reviewed manuscripts for:
 
-BMC Public Health, Demographic Research, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of the Royal Statistical Society: Series A, Nature Communications, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
+BMC Public Health, Communications Medicine, Demographic Research, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of Public Health, Journal of the Royal Statistical Society: Series A, Nature Communications, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
