@@ -5,42 +5,16 @@ permalink: /Talks/
 author_profile: true
 ---
 
-# Conferences & Invited Talks 
+# Conferences & Invited Talks
 
--    The Federmann Center for the Study of Rationality Annual Retreat 03/2024. *Tzuba, Israel*
+-   2025: University of Haifa School of Political Sciences Seminar, Ministry of Labor Israel – Strategy and Policy Planning Division, Ministry of Finance Israel - The Budgets Department, Shalem College Jerusalem – Economics Seminar, Hebrew University Economics Department Annual Retreat, Israeli Economic Association Annual Conference.
 
--    Royal Statistical Society International Conference 09/2023. *Harrogate, The United Kingdom*
+-   2024: Federmann Center for the Study of Rationality Annual Retreat, University of Toronto Excess Mortality Symposium, Bank of Israel Research Seminar, Ministry of Finance Israel - Chief Economist Seminar, State Comptroller of Israel Social Policy Conference, Hebrew University School of Public Policy Seminar.
 
--    Hebrew University Economics Department Annual Retreat 07/2023. *Zikhron Ya'akov, Israel*
+-   2023: Israeli Sociological Society Annual Conference, Federmann Center for the Study of Rationality Annual Retreat, Israeli Political Science Association Annual Conference, Israeli Economic Association Annual Conference, Hebrew University Economics Department Annual Retreat, Royal Statistical Society International Conference.
 
--    Israeli Economic Association Annual Conference 06/2023. *Tel Aviv University, Israel*
+-   2022: Federmann Center for the Study of Rationality Annual Retreat, German Society for Demography (DGD) Annual Conference, Human Mortality Database Symposium, Silvaplana Political Economics Workshop, British Society for Population Studies Annual Conference, EAPS Health Morbidity and Mortality Working Group, Formal Demography Working Group, Hebrew University Department of Statistics Seminar.
 
--    Israeli Political Science Association Annual Conference 02/2023. *Tel Aviv University, Israel*
+-   2021: Bank of Israel Research Seminar, World Bank Research Seminar, Hebrew University Applied Microeconomics Seminar.
 
--    The Federmann Center for the Study of Rationality Annual Retreat 02/2023. *Nazareth, Israel*
-
--    Israeli Sociology Society Annual Conference 02/2023. *Tel Aviv University, Israel*
-
--    Department of Statistics Workshop 11/2022. *Hebrew University, Israel*
-
--    Formal Demography Working Group 10/2022. *Remote*
-
--    EAPS Health, Morbidity and Mortality Working Group 09/2022. *Charles University, Czech Republic (Remote)*
-
--    British Society for Population Studies Annual Conference 09/2022. *University of Winchester, The United Kingdom*
-
--    Silvaplana Political Economics Workshop 07/2022. *Pontresina, Switzerland*
-
--    Human Mortality Database Symposium 06/2022. *French Institute for Demographic Studies, France*
-
--    German Society for Demography (DGD) Annual Conference 03/2022. *Remote*
-
--    The Federmann Center for the Study of Rationality Annual Retreat 03/2022. *Tiberias, Israel*
-
--    Applied Microeconomics Workshop 11/2021. *Hebrew University, Israel*
-
--    World Bank Research Seminar 08/2021. *Remote*
-
--    Bank of Israel Research Seminar 02/2021. *Remote*
-
--    Israeli Law and Economics Association Annual Meeting 09/2020. *Remote*
+-   2020: Israeli Law and Economics Association Annual Meeting.

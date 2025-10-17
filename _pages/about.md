@@ -37,11 +37,15 @@ I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew Uni
 
 -   Ariel Karlinsky & Moses Shayo. [On the Manipulation of Information by Governments](https://dx.doi.org/10.2139/ssrn.4794704). *Under Review*
 
+-   Prakash Kumar, Wilson Suraweera, Ariel Karlinsky & Prabhat Jha. [Excess Cause-Specific Mortality in Rural India During the Covid Pandemic 2020-2023: Analyses of Deaths in 0.2 Million Rural Health Facilities](https://dx.doi.org/10.2139/ssrn.4994107). *Under Review*
+
+-   Yehonatan Givati, Ariel Karlinsky & Barak Zur. War and Charitable Contributions: Evidence from October 7. *Under Review*
+
 -   Ariel Karlinsky. The Political Implications of Wrong Information
 
-# Other Publications
+# Non-Peer Reviewed / Other Publications
 
--   Tom Sadeh & Ariel Karlinsky (2025). [Military Service in Israel](https://jppi.org.il/he/%D7%A2%D7%9C-%D7%94%D7%A9%D7%99%D7%A8%D7%95%D7%AA/). *The Jewish People Policy Institute* (Hebrew) 
+-   Tom Sadeh & Ariel Karlinsky (2025). [Military Service in Israel](https://jppi.org.il/he/%D7%A2%D7%9C-%D7%94%D7%A9%D7%99%D7%A8%D7%95%D7%AA/). *The Jewish People Policy Institute* (Hebrew)
 
 -   Jonas Scholey, Ariel Karlinsky, Dmitry Kobak & Charles Tallack (2023). [Conflicting COVID-19 excess mortality estimates](https://doi.org/10.1016/S0140-6736(23)00116-2). *The Lancet*
 
@@ -50,14 +54,6 @@ I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew Uni
 -   Ariel Karlinsky (2021). [Earned Income Tax Credit in Israel: Recipents and Amounts in Adminstrative vs. Survey data](https://kohelet.org.il/wp-content/uploads/2021/03/%D7%9E%D7%A1-%D7%94%D7%9B%D7%A0%D7%A1%D7%94-%D7%A9%D7%9C%D7%99%D7%9C%D7%99-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C.pdf). *Kohelet Policy Paper* (Hebrew)
 
 -   Ariel Karlinsky, Michael Sarel & Yoav Mazeh (2020). [Child Support in Israel: Determination and Allocation between Parents](https://kohelet.org.il/wp-content/uploads/2020/12/mezonot.policypaper.pdf). *Kohelet Policy Paper 67* (Hebrew)
-
--   Ariel Karlinsky (2020). [Once More Unto the Lockdown: The Corona Virus in Israel](https://kohelet.org.il/publication/covid). *Kohelet Policy Paper* (Hebrew)
-
--   Ariel Karlinsky (2020). [Elderly-Only Quarantine to Cope with the Corona Virus: Implications for the Israeli Economy and the Quality of Life of the Elderly Population](https://kohelet.org.il/wp-content/uploads/2020/04/%D7%A1%D7%92%D7%A8-%D7%9E%D7%91%D7%95%D7%92%D7%A8%D7%99%D7%9D-%D7%A1%D7%95%D7%A4%D7%99.pdf). *Kohelet Policy Paper* (Hebrew, [English Abstract](https://bit.ly/3aeYGRT))
-
--   Ariel Karlinsky (2020). [The Economic Impact of Shutting Down Schools for Children aged 5 to 9](https://kohelet.org.il/wp-content/uploads/2020/04/econ.impact.child_.covid_.pdf). *Kohelet Policy Paper* (Hebrew)
-
--   Asher Meir, Ziv Rubin & Ariel Karlinsky (2018). [The Urban Settlement in Israel: Past Present and Future](https://kohelet.org.il/wp-content/uploads/2018/03/economic.chartbook2018.pdf#page=60). *Kohelet Chart Book 2018* (Hebrew)
 
 # Additional Activities
 
@@ -75,9 +71,9 @@ Check out the podcast I host my with my collegues Itay Cishnevsky and Ori Katz :
 
 The following is a list of peer-reviewed articles, books and media where I'm formally acknowledged for helping. Though not my own, they are an important part of my contributions and I'm happy to assist colleagues in my areas of expertise.
 
--    Uri Zak, Shoham Choshen-Hillel, Hagit Hochner & Alex Gileles-Hillel (2025). [Tired of war: Changes in the sleep of the Israeli civilian population in the wake of the Israel-Hamas war](https://doi.org/10.1016/j.ijchp.2025.100596). *International Journal of Clinical and Health Psychology*
+-   Uri Zak, Shoham Choshen-Hillel, Hagit Hochner & Alex Gileles-Hillel (2025). [Tired of war: Changes in the sleep of the Israeli civilian population in the wake of the Israel-Hamas war](https://doi.org/10.1016/j.ijchp.2025.100596). *International Journal of Clinical and Health Psychology*
 
--    Emily Foxhall, Alejandra Martinez, Yuriko Schumacher, Dylan Baddour & Martha Pskowski (2024). [Texas likely undercounting heat-related deaths](https://www.texastribune.org/2024/08/14/texas-heat-deaths-undercount/). *Texas Tribune*
+-   Emily Foxhall, Alejandra Martinez, Yuriko Schumacher, Dylan Baddour & Martha Pskowski (2024). [Texas likely undercounting heat-related deaths](https://www.texastribune.org/2024/08/14/texas-heat-deaths-undercount/). *Texas Tribune*
 
 -   Evers, N. F. G., Evers, G. W., Greenfield, P. M., Yuan, Q., Gutierrez, F. B., Halim, G., & Du, H. (2024). [COVID-19 Increased Mortality Salience, Collectivism, and Subsistence Activities: A Theory-Driven Analysis of Online Adaptation in the United States, Indonesia, Mexico, and Japan](https://doi.org/10.1177/00220221231226310). *Journal of Cross-Cultural Psychology*
 
@@ -101,7 +97,7 @@ The following is a list of peer-reviewed articles, books and media where I'm for
 
 -   Claude Berrebi & Hanan Yonah (2017). [Philanthropy in Israel: An Updated Picture](https://www.taubcenter.org.il/en/research/philanthropy-in-israel-an-updated-picture/). *Taub Research Center*
 
--   Claude Berrebi & Hanan Yonah (2016). [Terrorism and philanthropy: the effect of terror attacks on the scope of giving by individuals and households](https://doi.org/10.1007/s11127-016-0375-y). *Public Choice* 
+-   Claude Berrebi & Hanan Yonah (2016). [Terrorism and philanthropy: the effect of terror attacks on the scope of giving by individuals and households](https://doi.org/10.1007/s11127-016-0375-y). *Public Choice*
 
 # Reviewer
 
