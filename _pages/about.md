@@ -31,7 +31,7 @@ I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew Uni
 
 -   Claude Berrebi, Ariel Karlinsky & Hanan Yonah (2020). [Individual and Community Behavioral Responses to Natural Disasters](https://doi.org/10.1007/s11069-020-04365-2). *Natural Hazards* 105, 1541--1569
 
--   Ariel Karlinsky & Michael Sarel (2020). [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/en/Research/Periodicals/Documents/iser%20Vol%2018%20No%201/8-KarlinskySarel-P91-137%20%28002%29.pdf). *Israeli Economic Review* 18(1). (Originally published in Hebrew as [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). *The Economic Quarterly* 63 (3/4))
+-   Ariel Karlinsky & Michael Sarel (2020). [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/media/fztbblsr/8-karlinskysarel-p91-137-002.pdf). *Israeli Economic Review* 18(1). (Originally published in Hebrew as [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). *The Economic Quarterly* 63 (3/4))
 
 # Work in Progress
 
