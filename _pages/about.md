@@ -13,7 +13,7 @@ I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew Uni
 
 # Peer Reviewed Publications
 
--   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (Forthcoming). [Complete Fiscal Accounts: Households' Net Transfers in Israel](https://ieca.org.il/wp-content/uploads/2024/11/%D7%A2%D7%9C-%D7%94%D7%9E%D7%99%D7%A1%D7%99%D7%9D-%D7%95%D7%A2%D7%9C-%D7%94%D7%A0%D7%A4%D7%9C%D7%90%D7%95%D7%AA-%D7%9E%D7%90%D7%95%D7%97%D7%93-%D7%9C%D7%90%D7%AA%D7%A8.pdf). *The Economic Quarterly* (Hebrew)
+-   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (Forthcoming). [Complete Fiscal Accounts: Households' Net Transfers in Israel](https://ieca.org.il/wp-content/uploads/2025/11/taxes_and_wonders.pdf). *The Economic Quarterly* (Hebrew)
 
 -   Ariel Karlinsky (2024). [International Completeness of Death Registration](https://doi.org/10.4054/DemRes.2024.50.38). *Demographic Research*. [GitHub Repository](https://github.com/akarlinsky/death_registration)
 
