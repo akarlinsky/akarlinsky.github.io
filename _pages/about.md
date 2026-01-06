@@ -13,7 +13,7 @@ I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew Uni
 
 # Peer Reviewed Publications
 
--   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (Forthcoming). [Complete Fiscal Accounts: Households' Net Transfers in Israel](https://ieca.org.il/wp-content/uploads/2025/11/taxes_and_wonders.pdf). *The Economic Quarterly* (Hebrew)
+-   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (2025). [On Taxes and Wonders: Complete Fiscal Accounts at the Household Level in Israel](https://www.boi.org.il/media/fnffif5h/vol-231-2025-3.pdf). *Israeli Economic Review*
 
 -   Ariel Karlinsky (2024). [International Completeness of Death Registration](https://doi.org/10.4054/DemRes.2024.50.38). *Demographic Research*. [GitHub Repository](https://github.com/akarlinsky/death_registration)
 
@@ -103,4 +103,4 @@ The following is a list of peer-reviewed articles, books and media where I'm for
 
 List (in alphabetical order) of journals that I have peer-reviewed manuscripts for:
 
-BMC Public Health, Communications Medicine, Demographic Research, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of Public Health, Journal of the Royal Statistical Society: Series A, Nature Communications, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
+BMC Public Health, Communications Medicine, Demographic Research, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of Public Health, Journal of the Royal Statistical Society: Series A, Latin American Research Review, Nature Communications, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
