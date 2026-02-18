@@ -12,6 +12,7 @@ redirect_from:
 I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew University](https://en.economics.huji.ac.il/) and Data Scientist at the [Center for Interdisciplinary Data Science Research (CIDR)](https://cidr.huji.ac.il/en/). <br/> I mostly do empirical work, my primary research interests are Political Economics, Public Economics, Health and Demographics, Data Science, Economics of Israel and Economic History.
 
 # Peer Reviewed Publications
+-   Ariel Karlinsky & Moses Shayo (Forthcoming). [Manipulation of Information in Times of Crisis: Evidence from Covid Excess Mortality](https://dx.doi.org/10.2139/ssrn.4794704). *Journal of Economic Growth*
 
 -   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (2025). [On Taxes and Wonders: Complete Fiscal Accounts at the Household Level in Israel](https://www.boi.org.il/media/fnffif5h/vol-231-2025-3.pdf). *Israeli Economic Review*
 
@@ -35,11 +36,9 @@ I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew Uni
 
 # Work in Progress
 
--   Ariel Karlinsky & Moses Shayo. [On the Manipulation of Information by Governments](https://dx.doi.org/10.2139/ssrn.4794704). *Under Review*
-
 -   Prakash Kumar, Wilson Suraweera, Ariel Karlinsky & Prabhat Jha. [Excess Cause-Specific Mortality in Rural India During the Covid Pandemic 2020-2023: Analyses of Deaths in 0.2 Million Rural Health Facilities](https://dx.doi.org/10.2139/ssrn.4994107). *Under Review*
 
--   Yehonatan Givati, Ariel Karlinsky & Barak Zur. War and Charitable Contributions: Evidence from October 7. *Under Review*
+-   Yehonatan Givati, Ariel Karlinsky & Barak Zur. War and Charitable Contributions: Evidence from October 7
 
 -   Ariel Karlinsky. The Political Implications of Wrong Information
 
@@ -103,4 +102,4 @@ The following is a list of peer-reviewed articles, books and media where I'm for
 
 List (in alphabetical order) of journals that I have peer-reviewed manuscripts for:
 
-BMC Public Health, Communications Medicine, Demographic Research, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of Public Health, Journal of the Royal Statistical Society: Series A, Latin American Research Review, Nature Communications, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
+Annals of Applied Statistics, BMC Public Health, Communications Medicine, Demographic Research, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of Public Health, Journal of the Royal Statistical Society: Series A, Latin American Research Review, Nature Communications, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
