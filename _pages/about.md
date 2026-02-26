@@ -14,6 +14,8 @@ I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew Uni
 # Peer Reviewed Publications
 -   Ariel Karlinsky & Moses Shayo (Forthcoming). [Manipulation of Information in Times of Crisis: Evidence from Covid Excess Mortality](https://dx.doi.org/10.2139/ssrn.4794704). *Journal of Economic Growth*
 
+-   Prakash Kumar, Wilson Suraweera, Ariel Karlinsky & Prabhat Jha (2026). [Cause-specific excess mortality in rural India during the COVID-19 pandemic 2020–2023: longitudinal analyses of deaths in 0.2 million rural health facilities](https://bmjopen.bmj.com/content/16/2/e097857). *BMJ Open*
+
 -   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (2025). [On Taxes and Wonders: Complete Fiscal Accounts at the Household Level in Israel](https://www.boi.org.il/media/fnffif5h/vol-231-2025-3.pdf). *Israeli Economic Review*
 
 -   Ariel Karlinsky (2024). [International Completeness of Death Registration](https://doi.org/10.4054/DemRes.2024.50.38). *Demographic Research*. [GitHub Repository](https://github.com/akarlinsky/death_registration)
@@ -35,8 +37,6 @@ I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew Uni
 -   Ariel Karlinsky & Michael Sarel (2020). [Estimating the Cost of Raising Children in Israel](https://www.boi.org.il/media/fztbblsr/8-karlinskysarel-p91-137-002.pdf). *Israeli Economic Review* 18(1). (Originally published in Hebrew as [Cost Estimation of Raising Children in Israel](https://ieca.org.il/wp-content/uploads/2020/02/03Rivon2019Nos3and4.pdf#page=103). *The Economic Quarterly* 63 (3/4))
 
 # Work in Progress
-
--   Prakash Kumar, Wilson Suraweera, Ariel Karlinsky & Prabhat Jha. [Excess Cause-Specific Mortality in Rural India During the Covid Pandemic 2020-2023: Analyses of Deaths in 0.2 Million Rural Health Facilities](https://dx.doi.org/10.2139/ssrn.4994107). *Under Review*
 
 -   Yehonatan Givati, Ariel Karlinsky & Barak Zur. War and Charitable Contributions: Evidence from October 7
 
