@@ -16,7 +16,7 @@ I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew Uni
 
 -   Prakash Kumar, Wilson Suraweera, Ariel Karlinsky & Prabhat Jha (2026). [Cause-specific excess mortality in rural India during the COVID-19 pandemic 2020–2023: longitudinal analyses of deaths in 0.2 million rural health facilities](https://bmjopen.bmj.com/content/16/2/e097857). *BMJ Open*
 
--   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (2025). [On Taxes and Wonders: Complete Fiscal Accounts at the Household Level in Israel](https://www.boi.org.il/media/fnffif5h/vol-231-2025-3.pdf). *Israeli Economic Review*. (Originally published in Hebrew as [On Taxes and Wonders: Complete Fiscal Accounts at the Household Level in Israel](https://www.jstor.org/stable/27450195). *The Economic Quarterly* 68 (1/4))
+-   Ariel Karlinsky, Tom Sadeh, Eran Yogev & Michael Sarel (2025). [On Taxes and Wonders: Complete Fiscal Accounts at the Household Level in Israel](https://www.boi.org.il/media/fnffif5h/vol-231-2025-3.pdf). *Israeli Economic Review*. (Originally published in Hebrew as Karlinsky, Sadeh, Yogev & Sarel (2024). [On Taxes and Wonders: Complete Fiscal Accounts at the Household Level in Israel](https://www.jstor.org/stable/27450195). *The Economic Quarterly* 68 (1/4))
 
 -   Ariel Karlinsky (2024). [International Completeness of Death Registration](https://doi.org/10.4054/DemRes.2024.50.38). *Demographic Research*. [GitHub Repository](https://github.com/akarlinsky/death_registration)
 
