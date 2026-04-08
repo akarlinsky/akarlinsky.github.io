@@ -9,7 +9,7 @@ redirect_from:
 
 <br/><br/>
 
-I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew University](https://en.economics.huji.ac.il/) and Data Scientist at the [Center for Interdisciplinary Data Science Research (CIDR)](https://cidr.huji.ac.il/en/). <br/> I mostly do empirical work, my primary research interests are Political Economics, Public Economics, Health and Demographics, Data Science, Economics of Israel and Economic History.
+I'm an Economist and Statistician, a PHD Student in the [Department of Economics](https://en.economics.huji.ac.il/) and the [Center for the Study of Rationality](https://ratio.huji.ac.il/) at the Hebrew University and Data Scientist at the [Center for Interdisciplinary Data Science Research (CIDR)](https://cidr.huji.ac.il/en/). <br/> I mostly do empirical work, my primary research interests are Political Economics, Public Economics, Health and Demographics, Data Science, Economics of Israel and Economic History.
 
 # Peer Reviewed Publications
 -   Ariel Karlinsky & Moses Shayo (Forthcoming). [Manipulation of Information in Times of Crisis: Evidence from Covid Excess Mortality](https://dx.doi.org/10.2139/ssrn.4794704). *Journal of Economic Growth*
@@ -56,15 +56,15 @@ I'm an Economist and Statistician, a PHD Student in [Economics at the Hebrew Uni
 
 # Additional Activities
 
-I'm the creator and maintainer of the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality), an open dataset that tracks all-cause-mortality data from around the world.
+-   Creator and maintainer of the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality), an open dataset that tracks all-cause-mortality data from around the world.
 
-I'm a member of the [World Health Organization Technical Advisory Group on COVID-19 Mortality Assessment](https://www.who.int/data/technical-advisory-group/covid-19--mortality-assessment/membership).
+-   Member of the [World Health Organization Technical Advisory Group on COVID-19 Mortality Assessment](https://www.who.int/data/technical-advisory-group/covid-19--mortality-assessment/membership).
 
-I'm a member of The [Israeli Economic History Association](http://www.eha-israel.org/) and [Midaat](http://midaat.org.il/), an NGO dedicated to promoting public health via evidence based medicine and practices.
+-   Member of The [Israeli Economic History Association](http://www.eha-israel.org/) and [Midaat](http://midaat.org.il/), an NGO dedicated to promoting public health via evidence based medicine and practices.
 
 Check out the blog Gal Kabiri and I write together: [The Artist & the Merchant](https://www.artistandmerchant.com/), where we discuss economics, statistics and other aspects of social sciences with illustrations. (Hebrew)
 
-Check out the podcast I host my with my collegues Itay Cishnevsky and Ori Katz : [Creative Destruction](http://heres.podbean.com/), where we have talks with leading economists and other social scientists in Israel. (Hebrew)
+Check out the podcast I host my with my collegues Itay Cishnevsky and Ori Katz : [Creative Destruction](https://open.spotify.com/show/2LUFkOmcodZWYnj8wFlfIB?si=33528de641d34991), where we have talks with leading economists and other social scientists in Israel. (Hebrew)
 
 # Acknowledgments
 
