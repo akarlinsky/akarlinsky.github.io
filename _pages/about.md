@@ -12,7 +12,7 @@ redirect_from:
 I'm an Economist and Statistician, a PHD Student in the [Department of Economics](https://en.economics.huji.ac.il/) and the [Center for the Study of Rationality](https://ratio.huji.ac.il/) at the Hebrew University and Data Scientist at the [Center for Interdisciplinary Data Science Research (CIDR)](https://cidr.huji.ac.il/en/). <br/> I mostly do empirical work, my primary research interests are Political Economics, Public Economics, Health and Demographics, Data Science, Economics of Israel and Economic History.
 
 # Peer Reviewed Publications
--   Ariel Karlinsky & Moses Shayo (Forthcoming). [Manipulation of Information in Times of Crisis: Evidence from Covid Excess Mortality](https://dx.doi.org/10.2139/ssrn.4794704). *Journal of Economic Growth*
+-   Ariel Karlinsky & Moses Shayo (2026). [Manipulation of Information in Times of Crisis: Evidence from Covid Excess Mortality](https://doi.org/10.1007/s10887-026-09266-w). *Journal of Economic Growth*. [GitHub Repository](https://github.com/akarlinsky/information_manipulation)
 
 -   Prakash Kumar, Wilson Suraweera, Ariel Karlinsky & Prabhat Jha (2026). [Cause-specific excess mortality in rural India during the COVID-19 pandemic 2020–2023: longitudinal analyses of deaths in 0.2 million rural health facilities](https://bmjopen.bmj.com/content/16/2/e097857). *BMJ Open*
 
@@ -40,7 +40,7 @@ I'm an Economist and Statistician, a PHD Student in the [Department of Economics
 
 -   Yehonatan Givati, Ariel Karlinsky & Barak Zur. War and Charitable Contributions: Evidence from October 7
 
--   Ariel Karlinsky. The Political Implications of Wrong Information
+-   Ariel Karlinsky. Politics & Economic Information
 
 # Non-Peer Reviewed / Other Publications
 
