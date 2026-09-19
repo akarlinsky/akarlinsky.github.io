@@ -12,7 +12,7 @@ redirect_from:
 I'm an Economist and Statistician, a PHD Student in the [Department of Economics](https://en.economics.huji.ac.il/) and the [Center for the Study of Rationality](https://ratio.huji.ac.il/) at the Hebrew University and Data Scientist at the [Center for Interdisciplinary Data Science Research (CIDR)](https://cidr.huji.ac.il/en/). <br/> I mostly do empirical work, my primary research interests are Political Economics, Public Economics, Health and Demographics, Data Science, Economics of Israel and Economic History.
 
 # Peer Reviewed Publications
--   **Ariel Karlinsky** & Moses Shayo (2026). [Manipulation of Information in Times of Crisis: Evidence from Covid Excess Mortality](https://doi.org/10.1007/s10887-026-09266-w). *Journal of Economic Growth*. [GitHub Repository](https://github.com/akarlinsky/information_manipulation)
+-   **Ariel Karlinsky** & Moses Shayo (2026). [Manipulation of Information in Times of Crisis: Evidence from Covid Excess Mortality](https://doi.org/10.1007/s10887-026-09266-w). *Journal of Economic Growth* 31, 433–462. [GitHub Repository](https://github.com/akarlinsky/information_manipulation)
 
 -   Prakash Kumar, Wilson Suraweera, **Ariel Karlinsky** & Prabhat Jha (2026). [Cause-specific excess mortality in rural India during the COVID-19 pandemic 2020–2023: longitudinal analyses of deaths in 0.2 million rural health facilities](https://bmjopen.bmj.com/content/16/2/e097857). *BMJ Open*
 
@@ -102,4 +102,4 @@ The following is a list of peer-reviewed articles, books and media where I'm for
 
 List (in alphabetical order) of journals that I have peer-reviewed manuscripts for:
 
-Annals of Applied Statistics, BMC Public Health, Communications Medicine, Demographic Research, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of Public Health, Journal of the Royal Statistical Society: Series A, Latin American Research Review, Nature Communications, Nature Medicine, PLOS-ONE, PNAS, Preventive Medicine Reports, Science Advances, Scientific Reports.
+Annals of Applied Statistics, BMC Public Health, Canadian Journal of Public Health, Communications Medicine, Demographic Research, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of Public Health, Journal of the Royal Statistical Society: Series A, Latin American Research Review, Nature Communications, Nature Medicine, PLOS-ONE, PNAS, Population Research and Policy Review, Preventive Medicine Reports, Science Advances, Scientific Reports.
