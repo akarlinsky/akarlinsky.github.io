@@ -5,8 +5,6 @@ permalink: /Media-Interviews/
 author_profile: true
 ---
 
-# Media Interviews
-
 -   2026: ![](/_pages/favicons/podcasts.apple.com.png){: .media-favicon width="20" height="20" } [What's Your Number? / Ark Media](https://podcasts.apple.com/us/podcast/a-tale-of-three-economies-with-ariel-karlinsky/id1810695711?i=1000745087387)
 
 -   2025: ![](/_pages/favicons/geekonomy.net.png){: .media-favicon width="20" height="20" } [Geekonomy](https://geekonomy.net/2025/06/04/geekonomy1052_ariel/) (Hebrew) · ![](/_pages/favicons/retractionwatch.com.png){: .media-favicon width="20" height="20" } [Retraction Watch](https://retractionwatch.com/2025/10/23/confusing-and-frankly-disturbing-when-researchers-are-impersonated/)

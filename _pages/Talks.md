@@ -1,11 +1,9 @@
 ---
 layout: talks
-title: "Conferences and Invited Talks"
+title: "Conferences & Invited Talks"
 permalink: /Talks/
 author_profile: true
 ---
-
-# Conferences & Invited Talks
 
 -   **2026**
     -   **Talks:** [Research Discussions Seminar - Federmann Center for the Study of Rationality](https://ratio.huji.ac.il/event/ariel-karlinsky-taxes-and-wonders-complete-fiscal-accounts-household-level-israel).
