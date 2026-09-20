@@ -5,6 +5,8 @@ permalink: /Talks/
 author_profile: true
 ---
 
+# Conferences & Invited Talks
+
 -   **2026**
     -   **Talks:** [Research Discussions Seminar - Federmann Center for the Study of Rationality](https://ratio.huji.ac.il/event/ariel-karlinsky-taxes-and-wonders-complete-fiscal-accounts-household-level-israel).
     -   **Conferences:** [1 Epidemic Many Estimates – London School of Economics](https://www.lse.ac.uk/economic-history/hed/workshops/one-epidemic-many-estimates-1eme), [Federmann Center for the Study of Rationality Annual Retreat](https://ratio.huji.ac.il/event/35th-center-study-rationality-annual-retreat), [University of Chicago Price Theory Summer Camp](https://bfi.uchicago.edu/price-theory-summer-camp-2026-cohort/).
