@@ -30,4 +30,5 @@ author_profile: true
     -   **Talks:** Bank of Israel Research Seminar, Hebrew University Applied Microeconomics Seminar, World Bank Research Seminar.
 
 -   **2020**
-    -   **Conferences:** Israeli Law and Economics Association Annual Meeting.
+    -   **Conferences:** [Israeli Law and Economics Association Annual Meeting](/_pages/programs/ILEA%20program%202020.pdf).
+
