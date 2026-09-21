@@ -57,8 +57,4 @@ The following is a list of peer-reviewed articles, books and media where I'm for
 
 -   Claude Berrebi & Hanan Yonah (2016). [Terrorism and philanthropy: the effect of terror attacks on the scope of giving by individuals and households](https://doi.org/10.1007/s11127-016-0375-y). *Public Choice*
 
-# Reviewer
-
-List (in alphabetical order) of journals that I have peer-reviewed manuscripts for:
-
-Annals of Applied Statistics, BMC Public Health, Canadian Journal of Public Health, Communications Medicine, Demographic Research, Economic Quarterly, European Journal of Epidemiology, Health Security, International Journal of Epidemiology, Journal of Epidemiology and Global Health, Journal of Public Health, Journal of the Royal Statistical Society: Series A, Latin American Research Review, Nature Communications, Nature Medicine, PLOS-ONE, PNAS, Population Research and Policy Review, Preventive Medicine Reports, Science Advances, Scientific Reports.
+{% include reviewer-sections.md %}
