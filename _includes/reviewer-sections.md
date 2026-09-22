@@ -7,7 +7,7 @@ I have reviewed manuscripts for:
 [*Canadian Journal of Public Health*](https://link.springer.com/journal/41997),
 [*Communications Medicine*](https://www.nature.com/commsmed/),
 [*Demographic Research*](https://www.demographic-research.org/),
-[*Economic Quarterly*](https://www.richmondfed.org/publications/research/economic_quarterly),
+[*Economic Quarterly*](https://www.jstor.org/journal/econquar),
 [*European Journal of Epidemiology*](https://link.springer.com/journal/10654),
 [*Health Security*](https://www.liebertpub.com/loi/hs),
 [*International Journal of Epidemiology*](https://academic.oup.com/ije),
